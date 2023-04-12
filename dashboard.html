@@ -1,0 +1,779 @@
+﻿<!DOCTYPE html>
+<head>
+    <title>
+        Ashley's fitbit stats
+    </title>
+	<style>
+        svg {
+            width: 700px;
+            height: 400px;
+            background-color: lightgray;
+        }
+		
+		.float-container {
+			border: 3px solid #fff;
+			padding: 20px;
+		}
+
+		.float-child {
+			width: 45%;
+			float: left;
+			padding: 10px;
+			border: 2px solid red;
+		} 
+    </style>
+    <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>	
+</head>
+<body>
+	<h1>How has exercise affected my resting heart rate and quality of sleep?</h1>
+	<p>The following data is from my Fitbit stats in the first year I had the Fitbit (14 Mar 2022 - 13 Mar 2023).</p>
+	<table>
+		<tr><td><div id="div-exercise" class="float-container">
+			<h2>Exercise</h2>
+			<p>Number of minutes of exercise per day.</p>
+			<p><b>Plan:</b> On the monthly graphs, stack multiple exercise sessions in a day.  Color code the bars by heart rate zones (below zones, fat burn, cardio, peak).  Clicking on a bar (on the monthly graphs) shows what time the exercise took place and the type of exercise (run/walk/aerobics).</p>
+			<div id="div-1-select" style="margin-left:30px;">
+				<p>Month: <span id="select-month"></span></p>
+			</div>
+			<div><svg id="exercise"></svg></div>
+		</div></td></tr>
+		<tr><td><div id="div-heartrate" class="float-container">
+			<h2>Resting heart rate</h2>
+			<p>Resting heart rate for each day (bmp).</p>
+			<p><b>Plan:</b> Add a selector for the months.</p>
+			<div><svg id="resting-hr"></svg></div>
+			<div><svg id="vs-resting-hr"></svg></div>
+		</div></td></tr>
+		<tr><td><div id="div-3" class="float-container">
+			<h2>Sleep score</h2>
+			<p>Each night Fitbit assigns a sleep score out of 100, based on three subcomponents: Time asleep (out of 50), Time in deep and REM sleep (out of 25), and Restoration (out of 25, percent of heart rate below resting heart rate and percent restlessness).</p>
+			<p><b>Plan:</b> Include buttons to display one month at a time.  For each month color code different portions of the bar for each sleep component and label that portion of the bar with the sleep component's score.</p>
+			<div><svg id="sleep-score"></svg></div>
+			<div><svg id="vs-sleep-score"></svg></div>
+		</div></td></tr>
+		<tr><td><div id="div-4" class="float-container">
+			<h2>Sleep stages</h2>
+			<p>Minutes spent in light sleep, deep sleep, and REM sleep each night.</p>
+			<p><b>Plan:</b> Include buttons to display one month at a time.  Color code different portions of the bar for each phase of sleep and label with the number of minutes in that phase.</p>
+			<div><svg id="sleep-stages"></svg></div>
+			<div><svg id="vs-sleep-stages"></svg></div>
+		</div></td></tr>
+	</table>	
+	
+    <script type="text/javascript">
+		// This button will be used choose what subset of the data you want drawn
+        let select = d3.select("#select-month")
+            .append("select")
+            .attr("id", "month-selection");
+
+        // Adding options to be selected
+        select.append("option")
+            .attr("value", "All")
+            .text("All");
+        select.append("option")
+            .attr("value", "March 2022")
+            .text("March 2022");
+        select.append("option")
+            .attr("value", "April 2022")
+            .text("April 2022");
+		select.append("option")
+            .attr("value", "May 2022")
+            .text("May 2022");
+        select.append("option")
+            .attr("value", "June 2022")
+            .text("June 2022");
+		select.append("option")
+            .attr("value", "July 2022")
+            .text("July 2022");
+        select.append("option")
+            .attr("value", "August 2022")
+            .text("August 2022");
+		select.append("option")
+            .attr("value", "September 2022")
+            .text("September 2022");
+        select.append("option")
+            .attr("value", "October 2022")
+            .text("October 2022");
+		select.append("option")
+            .attr("value", "November 2022")
+            .text("November 2022");
+        select.append("option")
+            .attr("value", "December 2022")
+            .text("December 2022");
+		select.append("option")
+            .attr("value", "January 2023")
+            .text("January 2023");
+        select.append("option")
+            .attr("value", "February 2023")
+            .text("February 2023");	
+		select.append("option")
+            .attr("value", "March 2023")
+            .text("March 2023");		
+			
+		// Atributes for the svgs
+		let width = 700;
+        let height = 400;
+		let bgcolor = "lightgray";
+		let padding = 50;
+		
+        // For the x and y scales
+		let tick_size = 5
+		
+		// For creating the time series scale
+		var parseTime = d3.timeParse("%m/%d/%y")// %I:%M:%S")
+			
+		// Bar colors
+		var barGreens = ["#145A32", "#229954", "#7DCEA0", "#E9F7EF"]
+		var barBlues = ["#1B4F72", "#2E86C1", "#85C1E9"]
+		let brdr_color = "black";
+		
+		// labels for the horizontal axis when plotting over the year
+		let year_labels = ["Apr \'22", "May \'22", "Jun \'22", "Jul \'22", "Aug \'22", "Sep \'22", "Oct \'22", "Nov \'22", "Dec \'22", "Jan \'23", "Feb \'23", "Mar \'23"];
+		
+		// Exercise data	
+		d3.json("CleanedData/exercise_grouped_by_date.json").then(function (data) {
+            // Log the data to the console
+            console.log(data);
+	    
+			// x-axis scale 
+			var dates = [];
+			for (let obj of data) {
+				dates.push(parseTime(obj.date));
+				}	
+			console.log(dates) // for debugging
+			var domain = d3.extent(dates);	
+			let xScale = d3.scaleTime()
+				.domain(domain)
+				.range([padding, width-padding]);
+				
+			// Horizontal axis
+			xAxis = d3.axisBottom(xScale)
+				//.tickSize(tick_size)
+				//.tickValues(["March", "June", "September", "December", "March"])   
+				//.ticks(5)
+				// sets it so we have the specific ticks
+				.tickFormat(function (d, i) { return year_labels[i] }); // sets the tick labels
+			
+			d3.select("#exercise")
+                .append("g")
+				.attr("id", "x_scale")
+                .style("font-size", "12px")
+                .attr("transform", "translate(0, " + (height - padding) + ")")
+                .call(xAxis);
+				
+			d3.select("#exercise")
+				.append("text")
+				.attr("y", height - 15)
+				.attr("x", width / 2)
+				.attr("font-size", 14)
+				.style("text-anchor", "middle")
+				.text("Date");	
+				
+			// y-axis scale
+			let yScale = d3.scaleLinear()
+				.domain([0, 175])
+				.range([height-padding, padding]);
+			
+			// Vertical axis
+            yAxis = d3.axisLeft(yScale)
+                .ticks(8)  
+                //.tickSize(tick_size);
+     
+			d3.select("#exercise")
+                .append("g")
+                .style("font-size", "12px")
+                .attr("transform", "translate(" + padding + ",0)")
+                .call(yAxis);
+			
+			d3.select("#exercise")
+                .append("text")
+                .attr("transform", "rotate(-90)")  // rotating the y-axis label
+                .attr("y", 20)
+                .attr("x", 0 - (height / 2))
+                .attr("font-size", 14)
+                .style("text-anchor", "middle") // making the text anchor middle
+                .text("Exercise (min)");
+					
+            // This starts with the default plot
+            draw("All")
+
+            // This will update the plot when someone changes the month selection
+            d3.select("#month-selection")
+                .on("change", function () {
+                    draw(d3.select(this).node().value)
+                });
+				
+			// This function will draw the bar graph depending on the month selection
+            function draw(month) {
+                // remove any rectangles that already exist on the plot
+                d3.select("#exercise")
+                    .selectAll("rect")
+                    .remove();
+				
+				d3.select("#exercise")	
+						.selectAll("#x_scale")
+						.remove();
+						
+				d3.select("#exercise")	
+					.selectAll("#title")
+					.remove();
+						
+                if (month == "All") { // if the month is "All", then draw all the points
+                   	// x-axis scale 
+					var dates = [];
+					for (let obj of data) {
+						dates.push(parseTime(obj.date));
+						}	
+					console.log(dates) // for debugging
+					var domain = d3.extent(dates);	
+					let xScale = d3.scaleTime()
+						.domain(domain)
+						.range([padding, width-padding]);
+						
+					// Horizontal axis
+					xAxis = d3.axisBottom(xScale)
+						//.tickSize(tick_size)
+						//.tickValues(["March", "June", "September", "December", "March"])   
+						//.ticks(5)
+						// sets it so we have the specific ticks
+						.tickFormat(function (d, i) { return year_labels[i] }); // sets the tick labels
+					
+					d3.select("#exercise")
+						.append("g")
+						.attr("id", "x_scale")
+						.style("font-size", "12px")
+						.attr("transform", "translate(0, " + (height - padding) + ")")
+						.call(xAxis);
+						
+					d3.select("#exercise")
+						.append("text")
+						.attr("y", height - 15)
+						.attr("x", width / 2)
+						.attr("font-size", 14)
+						.style("text-anchor", "middle")
+						.text("Date");
+						
+					// adding a title
+					d3.select("#exercise")
+						.append("text")
+						.attr("id", "title")
+						.attr("y", 30)
+						.attr("x", width / 2)
+						.attr("font-size", 22)
+						.style("text-anchor", "middle")
+						.text("Daily exercise from 14 March 2022 - 13 March 2023");
+				
+					// Graph the data
+					d3.select("#exercise")
+						.selectAll("rect")
+						.data(data)
+						.enter()
+						.append("rect")
+						.attr("x", function (d) { return (xScale(parseTime(d.date))-1); })
+						.attr("y", function (d) { return yScale(d.totalMinutes); })
+						.attr("width", 2)
+						.attr("height", function (d) { return height - padding - yScale(d.totalMinutes); })
+						.attr("fill", barGreens[2])
+						.attr("stroke", brdr_color);
+						
+                } else { // Otherwise draw the filtered bars
+                    // Remove labels from previous graphs
+					d3.select("#exercise")	
+						.selectAll("#x_scale")
+						.remove();
+						
+					d3.select("#exercise")	
+						.selectAll("#title")
+						.remove();	
+						
+					var month_data = data.filter(function(d){ 
+						return d.month == month 
+					})
+					
+					// x-axis scale
+					if(month == "March 2022"){
+						var month_dates = d3.timeDays(new Date(2022, 1, 28), new Date(2022, 2, 15));
+					} else {	
+						var first_day = parseTime(month_data[0].date);
+						var day_before = first_day.setUTCDate(first_day.getUTCDate() - 1);
+						var month_dates = [day_before];
+					}	
+					for (let obj of month_data) {
+						month_dates.push(parseTime(obj.date));
+						}
+					if(month == "March 2023"){
+						month_dates.concat(d3.timeDays(new Date(2023, 2, 14), new Date(2023, 3, 1)));
+					}	
+					console.log(month_dates) // for debugging
+					var month_domain = d3.extent(month_dates);	
+					let xScaleMonth = d3.scaleTime()
+						.domain(month_domain)
+						.range([padding, width-padding]);
+						
+					// Horizontal axis
+					//var week = ["Sunday", "M", "T", "W", "U", "F", "S"];
+					xAxisMonth = d3.axisBottom(xScaleMonth)
+						//.tickSize(tick_size)
+						//.tickValues(["March", "June", "September", "December", "March"])   
+						.ticks(month_dates.length)
+						// sets it so we have the specific ticks
+						//.tickFormat(function(d, i){
+						//	return week[d]
+						//}) // sets the tick labels
+					
+					d3.select("#exercise")
+						.append("g")
+						.attr("id", "x_scale")
+						.style("font-size", "12px")
+						.attr("transform", "translate(0, " + (height - padding) + ")")
+						.call(xAxisMonth);
+                    
+					// adding a title
+					d3.select("#exercise")
+						.append("text")
+						.attr("id", "title")
+						.attr("y", 30)
+						.attr("x", width / 2)
+						.attr("font-size", 22)
+						.style("text-anchor", "middle")
+						.text("Daily exercise during "+month);
+						
+					// Graph the data
+					d3.select("#exercise")
+                        .selectAll("rect")
+                        .data(month_data)
+                        .enter()
+                        //.filter(function (d) {   // using filter to filter for the desired month
+                        //    return d.month == month;
+                        //})
+                        .append("rect")
+						.attr("x", function (d) { return (xScaleMonth(parseTime(d.date)) - 8); })
+						.attr("y", function (d) { return yScale(d.totalMinutes); })
+						.attr("width", 16)
+						.attr("height", function (d) { return height - padding - yScale(d.totalMinutes); })
+						.attr("fill", barGreens[0])
+						.attr("stroke", brdr_color);
+					
+					/*// Attempt to stack bars
+					
+					let total_minutes = 0
+					for (let i = 1; i <= d.length-2; i++){
+						d3.select("#exercise)
+							// Peak minutes
+							.append("rect")
+							.attr("x", function (d) { return xScale(parseTime(d.date)); })
+							.attr("y", function (d) { return yScale(d.exercise+String(i).peakMinutes); })
+							.attr("width", 2)
+							.attr("height", function (d) { return height - padding - total_minutes - yScale(d.exercise+String(i).peakMinutes); })
+							.attr("fill", barColors[0])
+							.attr("stroke", rect_brdr_color);
+							// Cardio minutes
+							.append("rect")
+							.attr("x", function (d) { return xScale(parseTime(d.date)); })
+							.attr("y", function (d) { return yScale(d.exercise+String(i).cardioMinutes); })
+							.attr("width", 2)
+							.attr("height", function (d) { return height - padding - total_minutes -  yScale(d.exercise+String(i).peakMinutes) - yScale(d.exercise+String(i).cardioMinutes; })
+							.attr("fill", barColors[1])
+							.attr("stroke", rect_brdr_color);
+							// Fat burn minutes
+							.append("rect")
+							.attr("x", function (d) { return xScale(parseTime(d.date)); })
+							.attr("y", function (d) { return yScale(d.exercise+String(i).fatBurnMinutes); })
+							.attr("width", 2)
+							.attr("height", function (d) { return height - padding - total_minutes - yScale(d.exercise+String(i).peakMinutes)- yScale(d.exercise+String(i).cardioMinutes - yScale(d.exercise+String(i).fatBurnMinutes; })
+							.attr("fill", barColors[2])
+							.attr("stroke", rect_brdr_color);
+							// Below zones minutes
+							.append("rect")
+							.attr("x", function (d) { return xScale(parseTime(d.date)); })
+							.attr("y", function (d) { return yScale(d.exercise+String(i).belowZonesMinutes); })
+							.attr("width", 2)
+							.attr("height", function (d) { return height - padding - total_minutes - yScale(d.exercise+String(i).peakMinutes) - yScale(d.exercise+String(i).cardioMinutes - yScale(d.exercise+String(i).fatBurnMinutes - yScale(d.exercise+String(i).belowZonesMinutes; })
+							.attr("fill", barColors[0])
+							.attr("stroke", rect_brdr_color);
+						total_minutes = yScale(d.exercise+String(i).peakMinutes) + yScale(d.exercise+String(i).cardioMinutes + yScale(d.exercise+String(i).fatBurnMinutes + yScale(d.exercise+String(i).belowZonesMinutes	
+					} */
+				}
+            };	
+		});	
+		
+		// Heartrate data
+        d3.json("CleanedData/exercise_v_resting_hr.json").then(function (data) {
+            // Logging the data to the console
+            console.log(data);
+			// First graph
+			
+			// x-axis 
+			var parseTime = d3.timeParse("%m/%d/%y")// %I:%M:%S")
+			var dates = [];
+			for (let obj of data) {
+				dates.push(parseTime(obj.date));
+				}	
+			console.log(dates) // for debugging
+			
+			var domain = d3.extent(dates);	
+						
+			let xScale1 = d3.scaleTime()
+				.domain(domain)
+				.range([padding, width-padding]);
+		
+			xAxis1 = d3.axisBottom(xScale1)
+				//.tickSize(tick_size)
+				//.tickValues(["March", "June", "September", "December", "March"])   
+				//.ticks(5)
+				// sets it so we have the specific ticks
+				.tickFormat(function (d, i) { return year_labels[i] }); // sets the tick labels
+			
+			// Create the axes
+			d3.select("#resting-hr")
+                .append("g")
+                .style("font-size", "12px")
+                .attr("transform", "translate(0, " + (height - padding) + ")")
+                .call(xAxis1);
+			
+			d3.select("#resting-hr")
+				.append("text")
+				.attr("y", height - 15)
+				.attr("x", width / 2)
+				.attr("font-size", 14)
+				.style("text-anchor", "middle")
+				.text("Date");
+				
+			// y-axes
+			let yScale1 = d3.scaleLinear()
+				.domain([0, 175])
+				.range([height-padding, padding]);
+			
+            yAxis1 = d3.axisRight(yScale1)
+                .ticks(6)  // Tries to only use 6 tick marks
+                //.tickSize(tick_size);
+
+            d3.select("#resting-hr")
+                .append("g")
+                .style("font-size", "12px")
+                .attr("transform", "translate(" + (width-padding) + ",0)")
+                .call(yAxis1);
+			
+			d3.select("#resting-hr")
+                .append("text")
+                .attr("transform", "rotate(90)")  // rotating the y-axis label
+                .attr("y", padding-width)
+                .attr("x", height/2)
+                .attr("font-size", 14)
+                .style("text-anchor", "middle") // making the text anchor middle
+                .text("Exercise (min)");
+				
+			let yScale2 = d3.scaleLinear()
+				.domain([55, 85])
+				.range([height-padding, padding]);
+			
+			yAxis2 = d3.axisLeft(yScale2)
+                .ticks(6)  // Tries to only use 6 tick marks
+                //.tickSize(tick_size);
+				
+			d3.select("#resting-hr")
+                .append("g")
+                .style("font-size", "12px")
+                .attr("transform", "translate(" + padding + ",0)")
+                .call(yAxis2);
+			
+			d3.select("#resting-hr")
+                .append("text")
+                .attr("transform", "rotate(-90)")  // rotating the y-axis label
+                .attr("y", 20)
+                .attr("x", 0 - (height / 2))
+                .attr("font-size", 14)
+                .style("text-anchor", "middle") // making the text anchor middle
+                .text("Resting heartrate (bmp)");
+				
+			// Graph the data
+			d3.select("#resting-hr")
+				.selectAll("rect")
+				.data(data)
+				.enter()
+				.append("rect")
+				.attr("x", function(d) {return xScale1(parseTime(d.date)); })
+				.attr("y", function(d) {return yScale2(d.resting_hr); })
+				.attr("width", 3)
+				.attr("height", function (d) { return height - padding - yScale2(d.resting_hr); })
+				.attr("fill", barBlues[2])
+				.attr("stroke", brdr_color)
+				
+			d3.select("#resting-hr")
+				.selectAll("circle")
+				.data(data)
+				.enter()
+				.append("circle")
+				.attr("cx", function (d) { return xScale1(parseTime(d.date)); })
+				.attr("cy", function (d) { return yScale1(d.total_exercise); })
+				.attr("r", 3)
+				.attr("fill", barGreens[2])
+				.attr("stroke", brdr_color)
+						
+			// Second graph
+			// x-axis
+			let xScale = d3.scaleLinear()
+				.domain([0,175])
+				.range([padding, width-padding]);
+				
+			let xAxis = d3.axisBottom(xScale) // inputting the xScale
+                .tickSize(tick_size);         // changes the tick size
+
+			d3.select("#vs-resting-hr")
+                .append("g")   // axes are stored in a g
+                .style("font-size", "12px")  // sets the fontsize of the labels
+                .attr("transform", "translate(0, " + (height - padding) + ")") // have to translate the axes down
+                .call(xAxis);  // this calls xAxis object we made
+				
+			d3.select("#vs-resting-hr")
+				.append("text")
+				.attr("y", height - 15)
+				.attr("x", width / 2)
+				.attr("font-size", 14)
+				.style("text-anchor", "middle")
+				.text("Exercise (min)");
+				
+			// y-axis	
+			let yScale = d3.scaleLinear()
+				.domain([55, 85])
+				.range([height-padding, padding]);         
+
+            let yAxis = d3.axisLeft(yScale)   // inputting the yScale
+                .tickSize(tick_size);
+
+            d3.select("#vs-resting-hr")
+                .append("g")
+                .style("font-size", "12px")
+                .attr("transform", "translate(" + padding + ",0)") // have to translate the axes to account for padding
+                .call(yAxis);
+				
+            d3.select("#vs-resting-hr")
+                .append("text")
+                .attr("transform", "rotate(-90)")  // rotating the y-axis label
+                .attr("y", 20)
+                .attr("x", 0 - (height / 2))
+                .attr("font-size", 14)
+                .style("text-anchor", "middle") // making the text anchor middle
+                .text("Resting heartrate (bpm)");
+    
+          	// Graph the data
+			d3.select("#vs-resting-hr")
+				.selectAll("circle")
+				.data(data)
+				.enter()
+				.append("circle")
+				.attr("cx", function(d) {return xScale(d.total_exercise); })
+				.attr("cy", function(d) {return yScale(d.resting_hr); })
+				.attr("r", 3)
+		});
+		// Sleep score data
+        d3.json("CleanedData/exercise_v_sleep_score.json").then(function (data) {
+            // Logging the data to the console
+            console.log(data);
+			// First graph
+			
+			// x-axis 
+			var parseTime = d3.timeParse("%m/%d/%y")// %I:%M:%S")
+			var dates = [];
+			for (let obj of data) {
+				dates.push(parseTime(obj.date));
+				}	
+			console.log(dates) // for debugging
+			
+			var domain = d3.extent(dates);	
+						
+			let xScale1 = d3.scaleTime()
+				.domain(domain)
+				.range([padding, width-padding]);
+		
+			xAxis1 = d3.axisBottom(xScale1)
+				//.tickSize(tick_size)
+				//.tickValues(["March", "June", "September", "December", "March"])   
+				//.ticks(5)
+				// sets it so we have the specific ticks
+				.tickFormat(function (d, i) { return year_labels[i] }); // sets the tick labels
+			
+			d3.select("#sleep-score")
+                .append("g")
+                .style("font-size", "12px")
+                .attr("transform", "translate(0, " + (height - padding) + ")")
+                .call(xAxis1);
+			
+			d3.select("#sleep-score")
+				.append("text")
+				.attr("y", height - 15)
+				.attr("x", width / 2)
+				.attr("font-size", 14)
+				.style("text-anchor", "middle")
+				.text("Date");
+				
+			// y-axes
+			let yScale1 = d3.scaleLinear()
+				.domain([0, 175])
+				.range([height-padding, padding]);
+			
+            yAxis1 = d3.axisRight(yScale1)
+                .ticks(6)  // Tries to only use 6 tick marks
+                //.tickSize(tick_size);
+
+            d3.select("#sleep-score")
+                .append("g")
+                .style("font-size", "12px")
+                .attr("transform", "translate(" + (width-padding) + ",0)")
+                .call(yAxis1);
+			
+			d3.select("#sleep-score")
+                .append("text")
+                .attr("transform", "rotate(90)")  // rotating the y-axis label
+                .attr("y", (width-20))
+                .attr("x", 0 - (height / 2))
+                .attr("font-size", 14)
+                .style("text-anchor", "middle") // making the text anchor middle
+                .text("Exercise (min)");
+				
+			let yScale2 = d3.scaleLinear()
+				.domain([50, 100])
+				.range([height-padding, padding]);
+			
+			yAxis2 = d3.axisLeft(yScale2)
+                .ticks(6)  // Tries to only use 6 tick marks
+                //.tickSize(tick_size);
+				
+			d3.select("#sleep-score")
+                .append("g")
+                .style("font-size", "12px")
+                .attr("transform", "translate(" + padding + ",0)")
+                .call(yAxis2);
+			
+			d3.select("#sleep-score")
+                .append("text")
+                .attr("transform", "rotate(-90)")  // rotating the y-axis label
+                .attr("y", 20)
+                .attr("x", 0 - (height / 2))
+                .attr("font-size", 14)
+                .style("text-anchor", "middle") // making the text anchor middle
+                .text("Sleep score");
+				
+			// Graph the data
+			d3.select("#sleep-score")
+				.selectAll("rect")
+				.data(data)
+				.enter()
+				.append("rect")
+				.attr("x", function(d) {return xScale1(parseTime(d.date)); })
+				.attr("y", function(d) {return yScale2(d.sleep_score); })
+				.attr("width", 3)
+				.attr("height", function (d) { return height - padding - yScale2(d.sleep_score); })
+				.attr("fill", barBlues[2])
+				.attr("stroke", brdr_color)
+				
+			d3.select("#sleep-score")
+				.selectAll("circle")
+				.data(data)
+				.enter()
+				.append("circle")
+				.attr("cx", function (d) { return xScale1(parseTime(d.date)); })
+				.attr("cy", function (d) { return yScale1(d.total_exercise); })
+				.attr("r", 3)
+				.attr("fill", barGreens[2])
+				.attr("stroke", brdr_color)
+						
+			// Second graph
+			// x-axis
+			let xScale = d3.scaleLinear()
+				.domain([0,175])
+				.range([padding, width-padding]);
+				
+			let xAxis = d3.axisBottom(xScale) // inputting the xScale
+                //.tickSize(tick_size);         // changes the tick size
+
+			d3.select("#vs-sleep-score")
+                .append("g")   // axes are stored in a g
+                .style("font-size", "12px")  // sets the fontsize of the labels
+                .attr("transform", "translate(0, " + (height - padding) + ")") // have to translate the axes down
+                .call(xAxis);  // this calls xAxis object we made
+				
+			d3.select("#vs-sleep-score")
+				.append("text")
+				.attr("y", height - 15)
+				.attr("x", width / 2)
+				.attr("font-size", 14)
+				.style("text-anchor", "middle")
+				.text("Exercise (min)");
+				
+			// y-axis	
+			let yScale = d3.scaleLinear()
+				.domain([50, 100])
+				.range([height-padding, padding]);         
+
+            let yAxis = d3.axisLeft(yScale)   // inputting the yScale
+                //.tickSize(tick_size);
+
+            d3.select("#vs-sleep-score")
+                .append("g")
+                .style("font-size", "12px")
+                .attr("transform", "translate(" + padding + ",0)") // have to translate the axes to account for padding
+                .call(yAxis);
+				
+            d3.select("#vs-sleep-score")
+                .append("text")
+                .attr("transform", "rotate(-90)")  // rotating the y-axis label
+                .attr("y", 20)
+                .attr("x", 0 - (height / 2))
+                .attr("font-size", 14)
+                .style("text-anchor", "middle") // making the text anchor middle
+                .text("Sleep score");
+    
+          	// Graph the data
+			d3.select("#vs-sleep-score")
+				.selectAll("circle")
+				.data(data)
+				.enter()
+				.append("circle")
+				.attr("cx", function(d) {return xScale(d.total_exercise); })
+				.attr("cy", function(d) {return yScale(d.sleep_score); })
+				.attr("r", 3)
+
+			// Attempt to stack bars
+					/*let total_minutes = 0
+					for (let i = 1; i <= d.length-2; i++){
+						d3.select("#exercise)
+							// Peak minutes
+							.append("rect")
+							.attr("x", function (d) { return xScale(parseTime(d.date)); })
+							.attr("y", function (d) { return yScale(d.exercise+String(i).peakMinutes); })
+							.attr("width", 2)
+							.attr("height", function (d) { return height - padding - total_minutes - yScale(d.exercise+String(i).peakMinutes); })
+							.attr("fill", barColors[0])
+							.attr("stroke", rect_brdr_color);
+							// Cardio minutes
+							.append("rect")
+							.attr("x", function (d) { return xScale(parseTime(d.date)); })
+							.attr("y", function (d) { return yScale(d.exercise+String(i).cardioMinutes); })
+							.attr("width", 2)
+							.attr("height", function (d) { return height - padding - total_minutes -  yScale(d.exercise+String(i).peakMinutes) - yScale(d.exercise+String(i).cardioMinutes; })
+							.attr("fill", barColors[1])
+							.attr("stroke", rect_brdr_color);
+							// Fat burn minutes
+							.append("rect")
+							.attr("x", function (d) { return xScale(parseTime(d.date)); })
+							.attr("y", function (d) { return yScale(d.exercise+String(i).fatBurnMinutes); })
+							.attr("width", 2)
+							.attr("height", function (d) { return height - padding - total_minutes - yScale(d.exercise+String(i).peakMinutes)- yScale(d.exercise+String(i).cardioMinutes - yScale(d.exercise+String(i).fatBurnMinutes; })
+							.attr("fill", barColors[2])
+							.attr("stroke", rect_brdr_color);
+							// Below zones minutes
+							.append("rect")
+							.attr("x", function (d) { return xScale(parseTime(d.date)); })
+							.attr("y", function (d) { return yScale(d.exercise+String(i).belowZonesMinutes); })
+							.attr("width", 2)
+							.attr("height", function (d) { return height - padding - total_minutes - yScale(d.exercise+String(i).peakMinutes) - yScale(d.exercise+String(i).cardioMinutes - yScale(d.exercise+String(i).fatBurnMinutes - yScale(d.exercise+String(i).belowZonesMinutes; })
+							.attr("fill", barColors[0])
+							.attr("stroke", rect_brdr_color);
+						total_minutes = yScale(d.exercise+String(i).peakMinutes) + yScale(d.exercise+String(i).cardioMinutes + yScale(d.exercise+String(i).fatBurnMinutes + yScale(d.exercise+String(i).belowZonesMinutes	
+					}*/
+	
+		})
+	</script>
+</body>
+</html>

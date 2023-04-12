@@ -1,0 +1,2045 @@
+[
+    {
+        "date": "03/13/23",
+        "total_exercise": 22,
+        "sleep_score": 77.0,
+        "composition": 21.0,
+        "revitalization": 18.0,
+        "duration": 38.0,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/16/22",
+        "total_exercise": 23,
+        "sleep_score": 85.0,
+        "composition": 22.0,
+        "revitalization": 21.0,
+        "duration": 42.0,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/17/22",
+        "total_exercise": 72,
+        "sleep_score": 71.0,
+        "composition": 17.0,
+        "revitalization": 16.0,
+        "duration": 38.0,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/20/22",
+        "total_exercise": 10,
+        "sleep_score": 61.5,
+        "composition": 16.0,
+        "revitalization": 13.0,
+        "duration": 32.5,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/21/22",
+        "total_exercise": 24,
+        "sleep_score": 90.0,
+        "composition": 20.0,
+        "revitalization": 24.0,
+        "duration": 46.0,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/22/22",
+        "total_exercise": 47,
+        "sleep_score": 81.0,
+        "composition": 23.0,
+        "revitalization": 19.0,
+        "duration": 39.0,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/23/22",
+        "total_exercise": 51,
+        "sleep_score": 82.0,
+        "composition": 21.0,
+        "revitalization": 23.0,
+        "duration": 38.0,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/28/22",
+        "total_exercise": 19,
+        "sleep_score": 75.0,
+        "composition": 18.0,
+        "revitalization": 17.0,
+        "duration": 40.0,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/29/22",
+        "total_exercise": 40,
+        "sleep_score": 87.0,
+        "composition": 22.0,
+        "revitalization": 24.0,
+        "duration": 41.0,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/31/22",
+        "total_exercise": 44,
+        "sleep_score": 74.5,
+        "composition": 19.5,
+        "revitalization": 19.5,
+        "duration": 35.5,
+        "month": "March 2022"
+    },
+    {
+        "date": "04/04/22",
+        "total_exercise": 16,
+        "sleep_score": 92.0,
+        "composition": 22.0,
+        "revitalization": 23.0,
+        "duration": 47.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/04/22",
+        "total_exercise": 16,
+        "sleep_score": 92.0,
+        "composition": 22.0,
+        "revitalization": 23.0,
+        "duration": 47.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/07/22",
+        "total_exercise": 45,
+        "sleep_score": 74.0,
+        "composition": 16.0,
+        "revitalization": 16.0,
+        "duration": 42.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/11/22",
+        "total_exercise": 25,
+        "sleep_score": 82.0,
+        "composition": 20.0,
+        "revitalization": 23.0,
+        "duration": 39.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/12/22",
+        "total_exercise": 121,
+        "sleep_score": 76.0,
+        "composition": 18.0,
+        "revitalization": 14.0,
+        "duration": 44.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/14/22",
+        "total_exercise": 45,
+        "sleep_score": 93.0,
+        "composition": 22.0,
+        "revitalization": 24.0,
+        "duration": 47.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/17/22",
+        "total_exercise": 11,
+        "sleep_score": 84.0,
+        "composition": 22.0,
+        "revitalization": 20.0,
+        "duration": 42.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/18/22",
+        "total_exercise": 26,
+        "sleep_score": 80.0,
+        "composition": 19.0,
+        "revitalization": 23.0,
+        "duration": 38.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/19/22",
+        "total_exercise": 38,
+        "sleep_score": 86.0,
+        "composition": 21.0,
+        "revitalization": 19.0,
+        "duration": 46.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/20/22",
+        "total_exercise": 26,
+        "sleep_score": 87.0,
+        "composition": 18.0,
+        "revitalization": 24.0,
+        "duration": 45.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/21/22",
+        "total_exercise": 39,
+        "sleep_score": 81.0,
+        "composition": 21.0,
+        "revitalization": 19.0,
+        "duration": 41.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/22/22",
+        "total_exercise": 26,
+        "sleep_score": 92.0,
+        "composition": 24.0,
+        "revitalization": 22.0,
+        "duration": 46.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/25/22",
+        "total_exercise": 34,
+        "sleep_score": 88.0,
+        "composition": 21.0,
+        "revitalization": 23.0,
+        "duration": 44.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/26/22",
+        "total_exercise": 63,
+        "sleep_score": 82.0,
+        "composition": 23.0,
+        "revitalization": 14.0,
+        "duration": 45.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/27/22",
+        "total_exercise": 25,
+        "sleep_score": 88.0,
+        "composition": 21.0,
+        "revitalization": 23.0,
+        "duration": 44.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/30/22",
+        "total_exercise": 45,
+        "sleep_score": 78.0,
+        "composition": 20.0,
+        "revitalization": 16.0,
+        "duration": 42.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "05/03/22",
+        "total_exercise": 51,
+        "sleep_score": 90.0,
+        "composition": 24.0,
+        "revitalization": 23.0,
+        "duration": 43.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/04/22",
+        "total_exercise": 84,
+        "sleep_score": 87.0,
+        "composition": 22.0,
+        "revitalization": 21.0,
+        "duration": 44.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/05/22",
+        "total_exercise": 60,
+        "sleep_score": 85.0,
+        "composition": 20.0,
+        "revitalization": 21.0,
+        "duration": 44.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/06/22",
+        "total_exercise": 27,
+        "sleep_score": 67.0,
+        "composition": 17.0,
+        "revitalization": 14.0,
+        "duration": 36.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/07/22",
+        "total_exercise": 28,
+        "sleep_score": 82.0,
+        "composition": 18.0,
+        "revitalization": 23.0,
+        "duration": 41.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/12/22",
+        "total_exercise": 31,
+        "sleep_score": 80.0,
+        "composition": 19.0,
+        "revitalization": 23.0,
+        "duration": 38.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/14/22",
+        "total_exercise": 95,
+        "sleep_score": 93.0,
+        "composition": 23.0,
+        "revitalization": 23.0,
+        "duration": 47.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/16/22",
+        "total_exercise": 27,
+        "sleep_score": 89.0,
+        "composition": 22.0,
+        "revitalization": 25.0,
+        "duration": 42.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/17/22",
+        "total_exercise": 85,
+        "sleep_score": 89.0,
+        "composition": 21.0,
+        "revitalization": 22.0,
+        "duration": 46.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/18/22",
+        "total_exercise": 27,
+        "sleep_score": 87.0,
+        "composition": 20.0,
+        "revitalization": 24.0,
+        "duration": 43.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/21/22",
+        "total_exercise": 28,
+        "sleep_score": 78.0,
+        "composition": 17.0,
+        "revitalization": 18.0,
+        "duration": 43.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/22/22",
+        "total_exercise": 32,
+        "sleep_score": 81.0,
+        "composition": 19.0,
+        "revitalization": 26.0,
+        "duration": 36.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/24/22",
+        "total_exercise": 35,
+        "sleep_score": 86.0,
+        "composition": 21.0,
+        "revitalization": 22.0,
+        "duration": 43.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/25/22",
+        "total_exercise": 35,
+        "sleep_score": 76.0,
+        "composition": 21.0,
+        "revitalization": 23.0,
+        "duration": 32.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/26/22",
+        "total_exercise": 36,
+        "sleep_score": 83.0,
+        "composition": 21.0,
+        "revitalization": 22.0,
+        "duration": 40.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/27/22",
+        "total_exercise": 39,
+        "sleep_score": 85.0,
+        "composition": 19.0,
+        "revitalization": 23.0,
+        "duration": 43.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/30/22",
+        "total_exercise": 81,
+        "sleep_score": 79.0,
+        "composition": 18.0,
+        "revitalization": 20.0,
+        "duration": 41.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/31/22",
+        "total_exercise": 67,
+        "sleep_score": 78.0,
+        "composition": 21.0,
+        "revitalization": 21.0,
+        "duration": 36.0,
+        "month": "May 2022"
+    },
+    {
+        "date": "06/01/22",
+        "total_exercise": 120,
+        "sleep_score": 75.0,
+        "composition": 21.0,
+        "revitalization": 15.0,
+        "duration": 39.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/02/22",
+        "total_exercise": 64,
+        "sleep_score": 85.0,
+        "composition": 21.0,
+        "revitalization": 23.0,
+        "duration": 41.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/03/22",
+        "total_exercise": 70,
+        "sleep_score": 85.0,
+        "composition": 21.0,
+        "revitalization": 23.0,
+        "duration": 41.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/04/22",
+        "total_exercise": 16,
+        "sleep_score": 84.0,
+        "composition": 19.0,
+        "revitalization": 23.0,
+        "duration": 42.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/05/22",
+        "total_exercise": 21,
+        "sleep_score": 84.0,
+        "composition": 18.0,
+        "revitalization": 23.0,
+        "duration": 43.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/06/22",
+        "total_exercise": 15,
+        "sleep_score": 79.0,
+        "composition": 23.0,
+        "revitalization": 14.0,
+        "duration": 42.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/07/22",
+        "total_exercise": 67,
+        "sleep_score": 86.0,
+        "composition": 18.0,
+        "revitalization": 23.0,
+        "duration": 45.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/08/22",
+        "total_exercise": 80,
+        "sleep_score": 76.0,
+        "composition": 16.0,
+        "revitalization": 22.0,
+        "duration": 38.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/09/22",
+        "total_exercise": 74,
+        "sleep_score": 88.0,
+        "composition": 22.0,
+        "revitalization": 24.0,
+        "duration": 42.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/10/22",
+        "total_exercise": 74,
+        "sleep_score": 92.0,
+        "composition": 22.0,
+        "revitalization": 24.0,
+        "duration": 46.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/12/22",
+        "total_exercise": 11,
+        "sleep_score": 89.0,
+        "composition": 19.0,
+        "revitalization": 24.0,
+        "duration": 46.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/13/22",
+        "total_exercise": 66,
+        "sleep_score": 73.0,
+        "composition": 16.0,
+        "revitalization": 17.0,
+        "duration": 40.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/14/22",
+        "total_exercise": 66,
+        "sleep_score": 89.0,
+        "composition": 20.0,
+        "revitalization": 23.0,
+        "duration": 46.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/15/22",
+        "total_exercise": 45,
+        "sleep_score": 93.0,
+        "composition": 24.0,
+        "revitalization": 24.0,
+        "duration": 45.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/16/22",
+        "total_exercise": 69,
+        "sleep_score": 73.0,
+        "composition": 19.0,
+        "revitalization": 25.0,
+        "duration": 29.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/17/22",
+        "total_exercise": 41,
+        "sleep_score": 92.0,
+        "composition": 23.0,
+        "revitalization": 24.0,
+        "duration": 45.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/18/22",
+        "total_exercise": 28,
+        "sleep_score": 89.0,
+        "composition": 20.0,
+        "revitalization": 24.0,
+        "duration": 45.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/20/22",
+        "total_exercise": 42,
+        "sleep_score": 93.0,
+        "composition": 24.0,
+        "revitalization": 24.0,
+        "duration": 45.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/21/22",
+        "total_exercise": 91,
+        "sleep_score": 89.0,
+        "composition": 22.0,
+        "revitalization": 24.0,
+        "duration": 43.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/22/22",
+        "total_exercise": 42,
+        "sleep_score": 80.0,
+        "composition": 21.0,
+        "revitalization": 23.0,
+        "duration": 36.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/23/22",
+        "total_exercise": 152,
+        "sleep_score": 82.0,
+        "composition": 21.0,
+        "revitalization": 22.0,
+        "duration": 39.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/24/22",
+        "total_exercise": 64,
+        "sleep_score": 79.0,
+        "composition": 19.0,
+        "revitalization": 18.0,
+        "duration": 42.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/26/22",
+        "total_exercise": 11,
+        "sleep_score": 89.0,
+        "composition": 20.0,
+        "revitalization": 24.0,
+        "duration": 45.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/27/22",
+        "total_exercise": 82,
+        "sleep_score": 85.0,
+        "composition": 21.0,
+        "revitalization": 21.0,
+        "duration": 43.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/28/22",
+        "total_exercise": 84,
+        "sleep_score": 78.0,
+        "composition": 19.0,
+        "revitalization": 21.0,
+        "duration": 38.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/29/22",
+        "total_exercise": 72,
+        "sleep_score": 88.0,
+        "composition": 21.0,
+        "revitalization": 21.0,
+        "duration": 46.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "07/01/22",
+        "total_exercise": 71,
+        "sleep_score": 86.0,
+        "composition": 21.0,
+        "revitalization": 22.0,
+        "duration": 43.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/02/22",
+        "total_exercise": 40,
+        "sleep_score": 78.0,
+        "composition": 19.0,
+        "revitalization": 14.0,
+        "duration": 45.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/06/22",
+        "total_exercise": 38,
+        "sleep_score": 80.0,
+        "composition": 15.0,
+        "revitalization": 22.0,
+        "duration": 43.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/07/22",
+        "total_exercise": 38,
+        "sleep_score": 88.0,
+        "composition": 22.0,
+        "revitalization": 20.0,
+        "duration": 46.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/08/22",
+        "total_exercise": 100,
+        "sleep_score": 83.0,
+        "composition": 18.0,
+        "revitalization": 23.0,
+        "duration": 42.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/09/22",
+        "total_exercise": 29,
+        "sleep_score": 86.0,
+        "composition": 18.0,
+        "revitalization": 22.0,
+        "duration": 46.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/11/22",
+        "total_exercise": 42,
+        "sleep_score": 87.0,
+        "composition": 17.0,
+        "revitalization": 25.0,
+        "duration": 45.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/12/22",
+        "total_exercise": 52,
+        "sleep_score": 63.5,
+        "composition": 15.0,
+        "revitalization": 17.0,
+        "duration": 31.5,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/13/22",
+        "total_exercise": 71,
+        "sleep_score": 84.0,
+        "composition": 21.0,
+        "revitalization": 26.0,
+        "duration": 37.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/14/22",
+        "total_exercise": 83,
+        "sleep_score": 88.0,
+        "composition": 22.0,
+        "revitalization": 25.0,
+        "duration": 41.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/15/22",
+        "total_exercise": 76,
+        "sleep_score": 86.0,
+        "composition": 21.0,
+        "revitalization": 22.0,
+        "duration": 43.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/16/22",
+        "total_exercise": 10,
+        "sleep_score": 85.0,
+        "composition": 22.0,
+        "revitalization": 21.0,
+        "duration": 42.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/18/22",
+        "total_exercise": 43,
+        "sleep_score": 80.0,
+        "composition": 17.0,
+        "revitalization": 24.0,
+        "duration": 39.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/19/22",
+        "total_exercise": 52,
+        "sleep_score": 82.0,
+        "composition": 21.0,
+        "revitalization": 22.0,
+        "duration": 39.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/20/22",
+        "total_exercise": 39,
+        "sleep_score": 83.0,
+        "composition": 19.0,
+        "revitalization": 23.0,
+        "duration": 41.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/21/22",
+        "total_exercise": 49,
+        "sleep_score": 76.0,
+        "composition": 19.0,
+        "revitalization": 22.0,
+        "duration": 35.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/22/22",
+        "total_exercise": 38,
+        "sleep_score": 78.0,
+        "composition": 20.0,
+        "revitalization": 21.0,
+        "duration": 37.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/23/22",
+        "total_exercise": 22,
+        "sleep_score": 86.0,
+        "composition": 19.0,
+        "revitalization": 21.0,
+        "duration": 46.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/24/22",
+        "total_exercise": 11,
+        "sleep_score": 86.0,
+        "composition": 18.0,
+        "revitalization": 23.0,
+        "duration": 45.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/24/22",
+        "total_exercise": 11,
+        "sleep_score": 86.0,
+        "composition": 18.0,
+        "revitalization": 23.0,
+        "duration": 45.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/31/22",
+        "total_exercise": 10,
+        "sleep_score": 90.0,
+        "composition": 20.0,
+        "revitalization": 24.0,
+        "duration": 46.0,
+        "month": "July 2022"
+    },
+    {
+        "date": "08/06/22",
+        "total_exercise": 33,
+        "sleep_score": 63.0,
+        "composition": 16.0,
+        "revitalization": 15.0,
+        "duration": 32.0,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/15/22",
+        "total_exercise": 11,
+        "sleep_score": 88.0,
+        "composition": 21.0,
+        "revitalization": 23.0,
+        "duration": 44.0,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/17/22",
+        "total_exercise": 33,
+        "sleep_score": 93.0,
+        "composition": 22.0,
+        "revitalization": 24.0,
+        "duration": 47.0,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/18/22",
+        "total_exercise": 42,
+        "sleep_score": 55.0,
+        "composition": 13.5,
+        "revitalization": 14.0,
+        "duration": 27.5,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/21/22",
+        "total_exercise": 58,
+        "sleep_score": 78.0,
+        "composition": 15.0,
+        "revitalization": 20.0,
+        "duration": 43.0,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/21/22",
+        "total_exercise": 58,
+        "sleep_score": 78.0,
+        "composition": 15.0,
+        "revitalization": 20.0,
+        "duration": 43.0,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/24/22",
+        "total_exercise": 70,
+        "sleep_score": 79.0,
+        "composition": 15.0,
+        "revitalization": 23.0,
+        "duration": 41.0,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/25/22",
+        "total_exercise": 37,
+        "sleep_score": 90.0,
+        "composition": 20.0,
+        "revitalization": 23.0,
+        "duration": 47.0,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/26/22",
+        "total_exercise": 43,
+        "sleep_score": 87.0,
+        "composition": 19.0,
+        "revitalization": 22.0,
+        "duration": 46.0,
+        "month": "August 2022"
+    },
+    {
+        "date": "09/01/22",
+        "total_exercise": 23,
+        "sleep_score": 87.0,
+        "composition": 18.0,
+        "revitalization": 24.0,
+        "duration": 45.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/03/22",
+        "total_exercise": 11,
+        "sleep_score": 77.0,
+        "composition": 16.0,
+        "revitalization": 25.0,
+        "duration": 36.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/04/22",
+        "total_exercise": 33,
+        "sleep_score": 68.0,
+        "composition": 16.0,
+        "revitalization": 24.0,
+        "duration": 28.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/06/22",
+        "total_exercise": 29,
+        "sleep_score": 91.0,
+        "composition": 21.0,
+        "revitalization": 24.0,
+        "duration": 46.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/07/22",
+        "total_exercise": 39,
+        "sleep_score": 86.0,
+        "composition": 18.0,
+        "revitalization": 22.0,
+        "duration": 46.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/09/22",
+        "total_exercise": 80,
+        "sleep_score": 68.0,
+        "composition": 12.0,
+        "revitalization": 19.0,
+        "duration": 37.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/10/22",
+        "total_exercise": 38,
+        "sleep_score": 76.0,
+        "composition": 21.0,
+        "revitalization": 21.0,
+        "duration": 34.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/11/22",
+        "total_exercise": 27,
+        "sleep_score": 94.0,
+        "composition": 21.0,
+        "revitalization": 26.0,
+        "duration": 47.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/11/22",
+        "total_exercise": 27,
+        "sleep_score": 94.0,
+        "composition": 21.0,
+        "revitalization": 26.0,
+        "duration": 47.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/13/22",
+        "total_exercise": 19,
+        "sleep_score": 84.0,
+        "composition": 20.0,
+        "revitalization": 25.0,
+        "duration": 39.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/16/22",
+        "total_exercise": 42,
+        "sleep_score": 84.0,
+        "composition": 18.0,
+        "revitalization": 20.0,
+        "duration": 46.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/19/22",
+        "total_exercise": 51,
+        "sleep_score": 83.0,
+        "composition": 17.0,
+        "revitalization": 22.0,
+        "duration": 44.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/20/22",
+        "total_exercise": 50,
+        "sleep_score": 72.0,
+        "composition": 19.0,
+        "revitalization": 22.5,
+        "duration": 30.5,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/20/22",
+        "total_exercise": 50,
+        "sleep_score": 72.0,
+        "composition": 19.0,
+        "revitalization": 22.5,
+        "duration": 30.5,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/23/22",
+        "total_exercise": 43,
+        "sleep_score": 85.0,
+        "composition": 19.0,
+        "revitalization": 21.0,
+        "duration": 45.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/24/22",
+        "total_exercise": 41,
+        "sleep_score": 71.0,
+        "composition": 19.0,
+        "revitalization": 19.0,
+        "duration": 33.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/26/22",
+        "total_exercise": 82,
+        "sleep_score": 90.0,
+        "composition": 19.0,
+        "revitalization": 24.0,
+        "duration": 47.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/27/22",
+        "total_exercise": 30,
+        "sleep_score": 86.0,
+        "composition": 21.0,
+        "revitalization": 22.0,
+        "duration": 43.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/28/22",
+        "total_exercise": 39,
+        "sleep_score": 87.0,
+        "composition": 20.0,
+        "revitalization": 22.0,
+        "duration": 45.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/29/22",
+        "total_exercise": 45,
+        "sleep_score": 88.0,
+        "composition": 19.0,
+        "revitalization": 23.0,
+        "duration": 46.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/30/22",
+        "total_exercise": 121,
+        "sleep_score": 89.0,
+        "composition": 20.0,
+        "revitalization": 23.0,
+        "duration": 46.0,
+        "month": "September 2022"
+    },
+    {
+        "date": "10/01/22",
+        "total_exercise": 30,
+        "sleep_score": 82.0,
+        "composition": 17.0,
+        "revitalization": 19.0,
+        "duration": 46.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/02/22",
+        "total_exercise": 84,
+        "sleep_score": 83.0,
+        "composition": 21.0,
+        "revitalization": 17.0,
+        "duration": 45.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/03/22",
+        "total_exercise": 98,
+        "sleep_score": 82.0,
+        "composition": 17.0,
+        "revitalization": 23.0,
+        "duration": 42.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/04/22",
+        "total_exercise": 49,
+        "sleep_score": 78.0,
+        "composition": 17.0,
+        "revitalization": 24.0,
+        "duration": 37.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/05/22",
+        "total_exercise": 72,
+        "sleep_score": 85.0,
+        "composition": 22.0,
+        "revitalization": 18.0,
+        "duration": 45.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/06/22",
+        "total_exercise": 59,
+        "sleep_score": 78.0,
+        "composition": 16.0,
+        "revitalization": 20.0,
+        "duration": 42.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/07/22",
+        "total_exercise": 96,
+        "sleep_score": 78.0,
+        "composition": 22.0,
+        "revitalization": 13.0,
+        "duration": 43.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/08/22",
+        "total_exercise": 148,
+        "sleep_score": 84.0,
+        "composition": 25.0,
+        "revitalization": 15.0,
+        "duration": 44.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/09/22",
+        "total_exercise": 146,
+        "sleep_score": 81.0,
+        "composition": 19.0,
+        "revitalization": 17.0,
+        "duration": 45.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/10/22",
+        "total_exercise": 66,
+        "sleep_score": 71.6666666667,
+        "composition": 19.3333333333,
+        "revitalization": 18.0,
+        "duration": 34.3333333333,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/11/22",
+        "total_exercise": 29,
+        "sleep_score": 86.0,
+        "composition": 20.0,
+        "revitalization": 24.0,
+        "duration": 42.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/12/22",
+        "total_exercise": 109,
+        "sleep_score": 78.0,
+        "composition": 17.0,
+        "revitalization": 20.0,
+        "duration": 41.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/13/22",
+        "total_exercise": 81,
+        "sleep_score": 78.0,
+        "composition": 21.0,
+        "revitalization": 17.0,
+        "duration": 40.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/14/22",
+        "total_exercise": 97,
+        "sleep_score": 80.0,
+        "composition": 20.0,
+        "revitalization": 14.0,
+        "duration": 46.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/16/22",
+        "total_exercise": 10,
+        "sleep_score": 72.0,
+        "composition": 18.0,
+        "revitalization": 21.0,
+        "duration": 33.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/17/22",
+        "total_exercise": 18,
+        "sleep_score": 72.0,
+        "composition": 16.0,
+        "revitalization": 12.0,
+        "duration": 44.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/19/22",
+        "total_exercise": 66,
+        "sleep_score": 68.0,
+        "composition": 17.0,
+        "revitalization": 16.0,
+        "duration": 35.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/20/22",
+        "total_exercise": 42,
+        "sleep_score": 85.0,
+        "composition": 22.0,
+        "revitalization": 21.0,
+        "duration": 42.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/21/22",
+        "total_exercise": 90,
+        "sleep_score": 76.0,
+        "composition": 20.0,
+        "revitalization": 14.0,
+        "duration": 42.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/22/22",
+        "total_exercise": 50,
+        "sleep_score": 68.0,
+        "composition": 21.0,
+        "revitalization": 13.0,
+        "duration": 34.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/24/22",
+        "total_exercise": 74,
+        "sleep_score": 76.0,
+        "composition": 17.0,
+        "revitalization": 18.0,
+        "duration": 41.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/24/22",
+        "total_exercise": 74,
+        "sleep_score": 76.0,
+        "composition": 17.0,
+        "revitalization": 18.0,
+        "duration": 41.0,
+        "month": "October 2022"
+    },
+    {
+        "date": "11/02/22",
+        "total_exercise": 43,
+        "sleep_score": 68.0,
+        "composition": 21.0,
+        "revitalization": 13.0,
+        "duration": 34.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/04/22",
+        "total_exercise": 87,
+        "sleep_score": 83.0,
+        "composition": 21.0,
+        "revitalization": 18.0,
+        "duration": 44.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/05/22",
+        "total_exercise": 29,
+        "sleep_score": 68.0,
+        "composition": 20.0,
+        "revitalization": 14.0,
+        "duration": 34.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/09/22",
+        "total_exercise": 92,
+        "sleep_score": 63.0,
+        "composition": 16.0,
+        "revitalization": 18.0,
+        "duration": 29.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/11/22",
+        "total_exercise": 90,
+        "sleep_score": 84.0,
+        "composition": 20.0,
+        "revitalization": 19.0,
+        "duration": 45.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/12/22",
+        "total_exercise": 11,
+        "sleep_score": 75.0,
+        "composition": 20.0,
+        "revitalization": 16.0,
+        "duration": 39.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/12/22",
+        "total_exercise": 11,
+        "sleep_score": 75.0,
+        "composition": 20.0,
+        "revitalization": 16.0,
+        "duration": 39.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/15/22",
+        "total_exercise": 63,
+        "sleep_score": 78.0,
+        "composition": 17.0,
+        "revitalization": 16.0,
+        "duration": 45.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/18/22",
+        "total_exercise": 49,
+        "sleep_score": 84.0,
+        "composition": 19.0,
+        "revitalization": 21.0,
+        "duration": 44.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/21/22",
+        "total_exercise": 43,
+        "sleep_score": 73.0,
+        "composition": 19.0,
+        "revitalization": 16.0,
+        "duration": 38.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/22/22",
+        "total_exercise": 23,
+        "sleep_score": 60.5,
+        "composition": 18.0,
+        "revitalization": 12.0,
+        "duration": 30.5,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/25/22",
+        "total_exercise": 46,
+        "sleep_score": 85.0,
+        "composition": 19.0,
+        "revitalization": 20.0,
+        "duration": 46.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/27/22",
+        "total_exercise": 13,
+        "sleep_score": 72.0,
+        "composition": 20.5,
+        "revitalization": 19.5,
+        "duration": 32.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/28/22",
+        "total_exercise": 78,
+        "sleep_score": 84.0,
+        "composition": 19.0,
+        "revitalization": 23.0,
+        "duration": 42.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/29/22",
+        "total_exercise": 29,
+        "sleep_score": 78.0,
+        "composition": 22.0,
+        "revitalization": 15.0,
+        "duration": 41.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/30/22",
+        "total_exercise": 84,
+        "sleep_score": 86.0,
+        "composition": 21.0,
+        "revitalization": 23.0,
+        "duration": 42.0,
+        "month": "November 2022"
+    },
+    {
+        "date": "12/02/22",
+        "total_exercise": 91,
+        "sleep_score": 84.0,
+        "composition": 21.0,
+        "revitalization": 22.0,
+        "duration": 41.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/05/22",
+        "total_exercise": 54,
+        "sleep_score": 83.0,
+        "composition": 25.0,
+        "revitalization": 14.0,
+        "duration": 44.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/06/22",
+        "total_exercise": 24,
+        "sleep_score": 61.0,
+        "composition": 20.0,
+        "revitalization": 12.0,
+        "duration": 29.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/07/22",
+        "total_exercise": 65,
+        "sleep_score": 81.0,
+        "composition": 18.0,
+        "revitalization": 21.0,
+        "duration": 42.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/09/22",
+        "total_exercise": 68,
+        "sleep_score": 78.0,
+        "composition": 19.0,
+        "revitalization": 20.0,
+        "duration": 39.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/10/22",
+        "total_exercise": 57,
+        "sleep_score": 83.0,
+        "composition": 23.0,
+        "revitalization": 14.0,
+        "duration": 46.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/12/22",
+        "total_exercise": 105,
+        "sleep_score": 84.0,
+        "composition": 18.0,
+        "revitalization": 21.0,
+        "duration": 45.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/13/22",
+        "total_exercise": 57,
+        "sleep_score": 75.0,
+        "composition": 21.0,
+        "revitalization": 14.0,
+        "duration": 40.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/14/22",
+        "total_exercise": 69,
+        "sleep_score": 79.0,
+        "composition": 22.0,
+        "revitalization": 14.0,
+        "duration": 43.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/16/22",
+        "total_exercise": 29,
+        "sleep_score": 81.0,
+        "composition": 21.0,
+        "revitalization": 16.0,
+        "duration": 44.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/17/22",
+        "total_exercise": 34,
+        "sleep_score": 69.0,
+        "composition": 22.0,
+        "revitalization": 10.0,
+        "duration": 37.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/19/22",
+        "total_exercise": 29,
+        "sleep_score": 83.0,
+        "composition": 18.0,
+        "revitalization": 20.0,
+        "duration": 45.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/20/22",
+        "total_exercise": 39,
+        "sleep_score": 69.0,
+        "composition": 16.0,
+        "revitalization": 17.0,
+        "duration": 36.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/21/22",
+        "total_exercise": 23,
+        "sleep_score": 72.0,
+        "composition": 18.0,
+        "revitalization": 19.0,
+        "duration": 35.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/25/22",
+        "total_exercise": 13,
+        "sleep_score": 84.0,
+        "composition": 19.0,
+        "revitalization": 23.0,
+        "duration": 42.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/26/22",
+        "total_exercise": 34,
+        "sleep_score": 83.0,
+        "composition": 19.0,
+        "revitalization": 19.0,
+        "duration": 45.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/27/22",
+        "total_exercise": 29,
+        "sleep_score": 82.0,
+        "composition": 20.0,
+        "revitalization": 17.0,
+        "duration": 45.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/28/22",
+        "total_exercise": 29,
+        "sleep_score": 80.0,
+        "composition": 19.0,
+        "revitalization": 19.0,
+        "duration": 42.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/30/22",
+        "total_exercise": 29,
+        "sleep_score": 71.0,
+        "composition": 21.0,
+        "revitalization": 14.0,
+        "duration": 36.0,
+        "month": "December 2022"
+    },
+    {
+        "date": "01/01/23",
+        "total_exercise": 34,
+        "sleep_score": 90.0,
+        "composition": 23.0,
+        "revitalization": 21.0,
+        "duration": 46.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/02/23",
+        "total_exercise": 22,
+        "sleep_score": 62.0,
+        "composition": 19.0,
+        "revitalization": 10.0,
+        "duration": 33.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/03/23",
+        "total_exercise": 11,
+        "sleep_score": 86.0,
+        "composition": 19.0,
+        "revitalization": 22.0,
+        "duration": 45.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/04/23",
+        "total_exercise": 31,
+        "sleep_score": 76.0,
+        "composition": 17.0,
+        "revitalization": 23.0,
+        "duration": 36.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/05/23",
+        "total_exercise": 49,
+        "sleep_score": 75.0,
+        "composition": 19.5,
+        "revitalization": 22.5,
+        "duration": 33.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/06/23",
+        "total_exercise": 12,
+        "sleep_score": 80.0,
+        "composition": 17.0,
+        "revitalization": 19.0,
+        "duration": 44.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/07/23",
+        "total_exercise": 41,
+        "sleep_score": 75.0,
+        "composition": 16.0,
+        "revitalization": 17.0,
+        "duration": 42.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/09/23",
+        "total_exercise": 11,
+        "sleep_score": 81.0,
+        "composition": 22.0,
+        "revitalization": 14.0,
+        "duration": 45.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/10/23",
+        "total_exercise": 40,
+        "sleep_score": 83.0,
+        "composition": 21.0,
+        "revitalization": 18.0,
+        "duration": 44.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/11/23",
+        "total_exercise": 40,
+        "sleep_score": 85.0,
+        "composition": 23.0,
+        "revitalization": 16.0,
+        "duration": 46.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/12/23",
+        "total_exercise": 54,
+        "sleep_score": 56.5,
+        "composition": 16.5,
+        "revitalization": 11.5,
+        "duration": 28.5,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/13/23",
+        "total_exercise": 41,
+        "sleep_score": 86.0,
+        "composition": 20.0,
+        "revitalization": 21.0,
+        "duration": 45.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/16/23",
+        "total_exercise": 38,
+        "sleep_score": 85.0,
+        "composition": 23.0,
+        "revitalization": 17.0,
+        "duration": 45.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/17/23",
+        "total_exercise": 69,
+        "sleep_score": 72.0,
+        "composition": 15.0,
+        "revitalization": 21.0,
+        "duration": 36.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/18/23",
+        "total_exercise": 45,
+        "sleep_score": 69.0,
+        "composition": 21.0,
+        "revitalization": 13.0,
+        "duration": 35.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/19/23",
+        "total_exercise": 49,
+        "sleep_score": 84.0,
+        "composition": 21.0,
+        "revitalization": 18.0,
+        "duration": 45.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/20/23",
+        "total_exercise": 47,
+        "sleep_score": 86.0,
+        "composition": 20.0,
+        "revitalization": 21.0,
+        "duration": 45.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/22/23",
+        "total_exercise": 11,
+        "sleep_score": 88.0,
+        "composition": 20.0,
+        "revitalization": 23.0,
+        "duration": 45.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/23/23",
+        "total_exercise": 27,
+        "sleep_score": 80.0,
+        "composition": 17.0,
+        "revitalization": 20.0,
+        "duration": 43.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/24/23",
+        "total_exercise": 42,
+        "sleep_score": 78.0,
+        "composition": 22.0,
+        "revitalization": 15.0,
+        "duration": 41.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/25/23",
+        "total_exercise": 71,
+        "sleep_score": 85.0,
+        "composition": 17.0,
+        "revitalization": 23.0,
+        "duration": 45.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/26/23",
+        "total_exercise": 37,
+        "sleep_score": 75.0,
+        "composition": 21.0,
+        "revitalization": 14.0,
+        "duration": 40.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/27/23",
+        "total_exercise": 70,
+        "sleep_score": 83.0,
+        "composition": 18.0,
+        "revitalization": 23.0,
+        "duration": 42.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/28/23",
+        "total_exercise": 25,
+        "sleep_score": 76.0,
+        "composition": 21.0,
+        "revitalization": 12.0,
+        "duration": 43.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/31/23",
+        "total_exercise": 37,
+        "sleep_score": 86.0,
+        "composition": 22.0,
+        "revitalization": 18.0,
+        "duration": 46.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/31/23",
+        "total_exercise": 37,
+        "sleep_score": 86.0,
+        "composition": 22.0,
+        "revitalization": 18.0,
+        "duration": 46.0,
+        "month": "January 2023"
+    },
+    {
+        "date": "02/08/23",
+        "total_exercise": 33,
+        "sleep_score": 82.0,
+        "composition": 21.0,
+        "revitalization": 16.0,
+        "duration": 45.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/10/23",
+        "total_exercise": 29,
+        "sleep_score": 87.0,
+        "composition": 18.0,
+        "revitalization": 23.0,
+        "duration": 46.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/14/23",
+        "total_exercise": 59,
+        "sleep_score": 87.0,
+        "composition": 21.0,
+        "revitalization": 21.0,
+        "duration": 45.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/15/23",
+        "total_exercise": 10,
+        "sleep_score": 77.0,
+        "composition": 17.0,
+        "revitalization": 16.0,
+        "duration": 44.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/16/23",
+        "total_exercise": 36,
+        "sleep_score": 57.0,
+        "composition": 17.0,
+        "revitalization": 12.0,
+        "duration": 28.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/17/23",
+        "total_exercise": 12,
+        "sleep_score": 80.0,
+        "composition": 18.0,
+        "revitalization": 17.0,
+        "duration": 45.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/18/23",
+        "total_exercise": 10,
+        "sleep_score": 77.0,
+        "composition": 22.0,
+        "revitalization": 11.0,
+        "duration": 44.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/20/23",
+        "total_exercise": 16,
+        "sleep_score": 81.0,
+        "composition": 21.0,
+        "revitalization": 19.0,
+        "duration": 41.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/21/23",
+        "total_exercise": 83,
+        "sleep_score": 64.0,
+        "composition": 20.0,
+        "revitalization": 17.0,
+        "duration": 27.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/22/23",
+        "total_exercise": 46,
+        "sleep_score": 77.0,
+        "composition": 18.0,
+        "revitalization": 17.0,
+        "duration": 42.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/23/23",
+        "total_exercise": 27,
+        "sleep_score": 68.0,
+        "composition": 22.0,
+        "revitalization": 11.0,
+        "duration": 35.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/24/23",
+        "total_exercise": 26,
+        "sleep_score": 81.0,
+        "composition": 21.0,
+        "revitalization": 22.0,
+        "duration": 38.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/26/23",
+        "total_exercise": 24,
+        "sleep_score": 88.0,
+        "composition": 23.0,
+        "revitalization": 23.0,
+        "duration": 42.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/27/23",
+        "total_exercise": 26,
+        "sleep_score": 76.0,
+        "composition": 18.0,
+        "revitalization": 19.0,
+        "duration": 39.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/28/23",
+        "total_exercise": 73,
+        "sleep_score": 72.0,
+        "composition": 21.0,
+        "revitalization": 15.0,
+        "duration": 36.0,
+        "month": "February 2023"
+    },
+    {
+        "date": "03/01/23",
+        "total_exercise": 61,
+        "sleep_score": 74.0,
+        "composition": 17.0,
+        "revitalization": 17.0,
+        "duration": 40.0,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/02/23",
+        "total_exercise": 35,
+        "sleep_score": 69.0,
+        "composition": 19.0,
+        "revitalization": 16.0,
+        "duration": 34.0,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/03/23",
+        "total_exercise": 30,
+        "sleep_score": 88.0,
+        "composition": 21.0,
+        "revitalization": 21.0,
+        "duration": 46.0,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/04/23",
+        "total_exercise": 24,
+        "sleep_score": 82.0,
+        "composition": 22.0,
+        "revitalization": 15.0,
+        "duration": 45.0,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/08/23",
+        "total_exercise": 34,
+        "sleep_score": 83.0,
+        "composition": 16.0,
+        "revitalization": 23.0,
+        "duration": 44.0,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/09/23",
+        "total_exercise": 36,
+        "sleep_score": 59.5,
+        "composition": 14.5,
+        "revitalization": 18.0,
+        "duration": 27.0,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/12/23",
+        "total_exercise": 31,
+        "sleep_score": 86.0,
+        "composition": 23.0,
+        "revitalization": 18.0,
+        "duration": 45.0,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/13/23",
+        "total_exercise": 22,
+        "sleep_score": 77.0,
+        "composition": 21.0,
+        "revitalization": 18.0,
+        "duration": 38.0,
+        "month": "March 2023"
+    }
+]

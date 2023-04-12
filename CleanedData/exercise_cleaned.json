@@ -1,0 +1,4286 @@
+[
+    {
+        "activityName": "Run",
+        "averageHeartRate": 160,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 11,
+        "peakMinutes": 11,
+        "startTime": "03/15/22 10:43:13"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 12,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/15/22 15:31:08"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/15/22 18:06:28"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/15/22 20:43:32"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 154,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 13,
+        "peakMinutes": 7,
+        "startTime": "03/16/22 11:57:43"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 109,
+        "belowZonesMinutes": 16,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/17/22 15:33:46"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 103,
+        "belowZonesMinutes": 20,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/17/22 18:10:49"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/17/22 20:49:34"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 95,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/20/22 16:28:29"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 152,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 15,
+        "peakMinutes": 7,
+        "startTime": "03/21/22 11:49:26"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 146,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 7,
+        "peakMinutes": 6,
+        "startTime": "03/22/22 12:24:09"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "03/22/22 14:33:59"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 136,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 10,
+        "peakMinutes": 0,
+        "startTime": "03/23/22 14:35:36"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 21,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "03/23/22 17:18:36"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 131,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "03/28/22 15:02:24"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 131,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "03/29/22 15:38:05"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 128,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "03/29/22 20:47:00"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/31/22 18:43:54"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 119,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/31/22 20:45:59"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/04/22 11:46:37"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 128,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/05/22 00:00:48"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 13,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/07/22 18:51:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "belowZonesMinutes": 22,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/07/22 20:53:25"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 167,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 11,
+        "peakMinutes": 12,
+        "startTime": "04/11/22 10:52:50"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 159,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 11,
+        "peakMinutes": 8,
+        "startTime": "04/12/22 13:25:41"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 131,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "04/12/22 15:42:18"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/12/22 17:11:06"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 23,
+        "cardioMinutes": 6,
+        "peakMinutes": 0,
+        "startTime": "04/12/22 17:56:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/12/22 20:47:52"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 20,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/14/22 19:03:38"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 21,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/14/22 20:56:18"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/17/22 17:54:32"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 156,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 7,
+        "peakMinutes": 11,
+        "startTime": "04/18/22 13:04:21"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "04/19/22 18:55:17"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 131,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "04/19/22 20:47:56"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 166,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 11,
+        "peakMinutes": 12,
+        "startTime": "04/20/22 15:22:33"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 130,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "04/21/22 18:49:51"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 133,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "04/21/22 20:51:05"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 162,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 13,
+        "peakMinutes": 11,
+        "startTime": "04/22/22 12:09:22"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 153,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 12,
+        "peakMinutes": 5,
+        "startTime": "04/25/22 13:54:10"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 104,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/25/22 19:55:17"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 130,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "04/26/22 15:07:20"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 12,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/26/22 18:06:04"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "04/26/22 20:49:56"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 153,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 15,
+        "peakMinutes": 2,
+        "startTime": "04/27/22 16:41:40"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "04/30/22 11:31:38"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 162,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 13,
+        "peakMinutes": 10,
+        "startTime": "04/30/22 16:31:38"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 159,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 10,
+        "peakMinutes": 3,
+        "startTime": "05/03/22 12:20:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 119,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/03/22 17:04:00"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 128,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "05/03/22 18:08:02"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 140,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 35,
+        "cardioMinutes": 19,
+        "peakMinutes": 3,
+        "startTime": "05/04/22 14:20:21"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/04/22 19:21:47"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 148,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 18,
+        "peakMinutes": 0,
+        "startTime": "05/05/22 12:36:01"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "05/05/22 13:36:43"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/05/22 16:55:37"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 148,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 21,
+        "peakMinutes": 0,
+        "startTime": "05/06/22 13:22:32"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 149,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 23,
+        "peakMinutes": 0,
+        "startTime": "05/07/22 17:41:24"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 128,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 24,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "05/12/22 14:02:49"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 168,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 6,
+        "peakMinutes": 20,
+        "startTime": "05/14/22 12:15:57"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 41,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/14/22 16:03:56"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/14/22 21:22:42"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/14/22 22:57:26"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 162,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 12,
+        "peakMinutes": 13,
+        "startTime": "05/16/22 13:13:10"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "05/17/22 16:36:57"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "05/17/22 18:21:57"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/17/22 19:27:41"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 158,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 11,
+        "peakMinutes": 14,
+        "startTime": "05/17/22 23:26:56"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 151,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 7,
+        "peakMinutes": 15,
+        "startTime": "05/18/22 12:38:39"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 156,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 5,
+        "peakMinutes": 18,
+        "startTime": "05/21/22 11:45:03"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 104,
+        "belowZonesMinutes": 15,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/22/22 15:32:51"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 104,
+        "belowZonesMinutes": 17,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/22/22 20:00:51"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 18,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "05/24/22 16:00:55"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 13,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "05/25/22 15:34:18"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 27,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "05/26/22 15:16:15"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 19,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "05/27/22 13:54:01"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 129,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "05/30/22 13:27:58"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 19,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/30/22 15:57:21"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "05/30/22 16:51:59"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/30/22 21:00:21"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 165,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 7,
+        "peakMinutes": 19,
+        "startTime": "05/31/22 12:19:09"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "05/31/22 13:33:35"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "05/31/22 20:50:35"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 160,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 10,
+        "peakMinutes": 17,
+        "startTime": "06/01/22 12:22:52"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 22,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/01/22 13:36:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/01/22 16:09:05"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 16,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "06/01/22 16:48:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 20,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/01/22 20:01:16"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 162,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 7,
+        "peakMinutes": 19,
+        "startTime": "06/02/22 12:10:08"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/02/22 19:37:23"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/02/22 21:01:52"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 129,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "06/03/22 13:36:02"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/03/22 15:59:26"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/03/22 16:42:56"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "06/03/22 20:28:16"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 133,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "06/04/22 12:28:09"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/05/22 16:23:38"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/05/22 17:33:37"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "06/06/22 02:46:38"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "06/07/22 13:33:43"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/07/22 15:55:26"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/07/22 16:39:49"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/07/22 21:01:29"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "06/08/22 13:35:03"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/08/22 16:07:50"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "belowZonesMinutes": 21,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/08/22 16:52:12"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/08/22 20:05:58"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/09/22 13:38:56"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 17,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "06/09/22 17:02:52"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "belowZonesMinutes": 18,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/09/22 21:11:12"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 18,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/10/22 13:35:12"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 108,
+        "belowZonesMinutes": 13,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/10/22 16:16:33"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/10/22 17:29:57"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 10,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/10/22 20:36:53"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/12/22 16:46:43"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 146,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 16,
+        "peakMinutes": 0,
+        "startTime": "06/13/22 12:17:38"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 20,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/13/22 13:34:33"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/13/22 19:04:02"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 141,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 15,
+        "peakMinutes": 0,
+        "startTime": "06/14/22 11:44:33"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/14/22 13:31:23"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/14/22 21:09:43"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 10,
+        "cardioMinutes": 1,
+        "peakMinutes": 1,
+        "startTime": "06/15/22 13:37:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "belowZonesMinutes": 17,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/15/22 20:07:25"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 145,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 19,
+        "peakMinutes": 0,
+        "startTime": "06/16/22 11:18:16"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/16/22 13:32:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 108,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/16/22 21:09:43"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "06/17/22 13:55:32"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/17/22 21:25:16"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 148,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 24,
+        "peakMinutes": 0,
+        "startTime": "06/18/22 14:05:41"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 153,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 21,
+        "peakMinutes": 3,
+        "startTime": "06/20/22 14:01:12"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 108,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/20/22 15:51:24"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 151,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 24,
+        "peakMinutes": 0,
+        "startTime": "06/21/22 11:57:52"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 27,
+        "fatBurnMinutes": 29,
+        "cardioMinutes": 1,
+        "peakMinutes": 6,
+        "startTime": "06/21/22 13:33:32"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 3,
+        "peakMinutes": 2,
+        "startTime": "06/22/22 13:32:40"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 10,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/22/22 20:04:26"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 145,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 23,
+        "peakMinutes": 0,
+        "startTime": "06/23/22 12:04:30"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 18,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/23/22 13:35:50"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "belowZonesMinutes": 14,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/23/22 16:14:36"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 103,
+        "belowZonesMinutes": 15,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/23/22 19:00:08"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 104,
+        "belowZonesMinutes": 26,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/23/22 21:32:53"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 24,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/23/22 23:46:00"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/24/22 18:34:08"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "06/24/22 20:34:30"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/24/22 21:40:10"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/24/22 23:13:12"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 104,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/26/22 23:04:24"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/27/22 00:32:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/27/22 13:36:47"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "belowZonesMinutes": 15,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/27/22 19:55:46"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 153,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 18,
+        "peakMinutes": 6,
+        "startTime": "06/27/22 23:27:29"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 162,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 16,
+        "peakMinutes": 13,
+        "startTime": "06/28/22 11:49:13"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "06/28/22 13:33:26"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 108,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/28/22 16:26:42"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/28/22 21:05:25"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 128,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "06/29/22 13:33:55"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "06/29/22 20:05:43"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 161,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 15,
+        "peakMinutes": 15,
+        "startTime": "06/29/22 23:40:32"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 144,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 28,
+        "peakMinutes": 0,
+        "startTime": "07/01/22 12:02:17"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 133,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 7,
+        "peakMinutes": 0,
+        "startTime": "07/01/22 13:28:32"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 128,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "07/01/22 20:35:14"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 132,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 25,
+        "cardioMinutes": 15,
+        "peakMinutes": 0,
+        "startTime": "07/02/22 23:44:31"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 135,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 15,
+        "peakMinutes": 0,
+        "startTime": "07/06/22 13:30:08"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 129,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "07/06/22 17:52:11"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "07/07/22 13:31:01"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/07/22 20:53:50"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 138,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 27,
+        "peakMinutes": 0,
+        "startTime": "07/08/22 00:18:20"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 23,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "07/08/22 13:33:46"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/08/22 20:20:49"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 160,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 12,
+        "peakMinutes": 13,
+        "startTime": "07/08/22 23:56:33"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 146,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 6,
+        "peakMinutes": 16,
+        "startTime": "07/09/22 12:56:48"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 133,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 7,
+        "peakMinutes": 0,
+        "startTime": "07/11/22 13:37:51"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 148,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 14,
+        "peakMinutes": 0,
+        "startTime": "07/11/22 17:25:46"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "07/12/22 13:35:27"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/12/22 16:52:39"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 130,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "07/12/22 21:09:35"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 164,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 9,
+        "peakMinutes": 18,
+        "startTime": "07/13/22 11:52:32"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/13/22 13:34:13"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/13/22 20:01:45"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 158,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 10,
+        "peakMinutes": 18,
+        "startTime": "07/14/22 11:55:37"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "07/14/22 13:35:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/14/22 16:37:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/14/22 19:03:15"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 156,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 24,
+        "peakMinutes": 1,
+        "startTime": "07/15/22 11:56:50"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "07/15/22 13:35:04"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/15/22 20:34:06"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/15/22 21:57:44"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 109,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/16/22 15:39:20"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "07/18/22 13:32:59"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 130,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "07/18/22 20:05:39"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/19/22 13:30:30"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 12,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/19/22 16:45:07"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "07/20/22 13:32:20"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "07/20/22 18:02:09"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 130,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "07/21/22 16:34:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 22,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/21/22 19:05:23"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 130,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "07/22/22 13:35:24"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/22/22 20:26:44"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/23/22 21:23:47"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/23/22 23:01:55"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 129,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 10,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "07/24/22 19:55:49"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 145,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 18,
+        "peakMinutes": 0,
+        "startTime": "07/28/22 11:03:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 104,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "07/31/22 14:55:34"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "08/06/22 01:28:57"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 119,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "08/06/22 14:17:30"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 119,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "08/15/22 17:54:27"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 135,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 6,
+        "peakMinutes": 0,
+        "startTime": "08/17/22 12:29:58"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 132,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 2,
+        "peakMinutes": 1,
+        "startTime": "08/17/22 22:00:57"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 129,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "08/18/22 15:36:32"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 131,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "08/18/22 16:27:45"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 133,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 40,
+        "cardioMinutes": 16,
+        "peakMinutes": 0,
+        "startTime": "08/21/22 22:24:27"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 138,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 35,
+        "cardioMinutes": 31,
+        "peakMinutes": 0,
+        "startTime": "08/23/22 18:14:27"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 131,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 6,
+        "peakMinutes": 0,
+        "startTime": "08/24/22 15:34:50"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 14,
+        "fatBurnMinutes": 35,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "08/24/22 17:06:11"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 132,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 23,
+        "cardioMinutes": 9,
+        "peakMinutes": 0,
+        "startTime": "08/25/22 17:08:21"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 20,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "08/26/22 15:34:57"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 130,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "08/26/22 18:34:10"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 15,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/01/22 16:15:55"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/03/22 17:03:53"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 66,
+        "belowZonesMinutes": 33,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/04/22 13:48:16"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 135,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 13,
+        "peakMinutes": 0,
+        "startTime": "09/06/22 12:52:49"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "09/07/22 14:22:08"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/07/22 18:45:51"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 16,
+        "fatBurnMinutes": 20,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/09/22 15:51:57"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 10,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/09/22 18:34:08"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/09/22 21:39:18"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/09/22 22:57:48"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 77,
+        "belowZonesMinutes": 38,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/10/22 05:18:25"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/11/22 18:22:38"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/11/22 21:03:06"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 25,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "09/12/22 16:00:35"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 20,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/12/22 17:24:13"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/13/22 11:41:08"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/16/22 14:30:24"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "09/16/22 18:35:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 132,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "09/19/22 15:49:17"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/19/22 18:43:25"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 20,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/19/22 20:24:58"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 63,
+        "belowZonesMinutes": 40,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/20/22 06:26:49"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/20/22 14:47:07"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "09/21/22 14:19:03"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 128,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "09/21/22 18:32:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 133,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 13,
+        "peakMinutes": 0,
+        "startTime": "09/21/22 23:10:17"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 21,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/23/22 16:08:15"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "09/23/22 19:33:07"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 137,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 16,
+        "peakMinutes": 0,
+        "startTime": "09/24/22 15:07:07"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/24/22 16:35:04"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 144,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 11,
+        "peakMinutes": 2,
+        "startTime": "09/26/22 12:57:07"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 23,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/26/22 15:59:55"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 128,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "09/26/22 18:25:07"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 149,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 24,
+        "peakMinutes": 1,
+        "startTime": "09/27/22 16:56:20"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "09/28/22 14:21:15"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "09/28/22 18:32:11"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/29/22 14:38:50"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 149,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 22,
+        "peakMinutes": 2,
+        "startTime": "09/29/22 18:32:51"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 143,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 12,
+        "peakMinutes": 1,
+        "startTime": "09/30/22 11:36:21"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "09/30/22 15:56:52"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/30/22 18:33:08"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/30/22 20:11:18"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 21,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "09/30/22 22:47:34"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 145,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 17,
+        "peakMinutes": 0,
+        "startTime": "10/01/22 13:54:50"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 23,
+        "fatBurnMinutes": 56,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "10/02/22 17:48:25"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 134,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 10,
+        "peakMinutes": 2,
+        "startTime": "10/03/22 11:33:11"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 13,
+        "fatBurnMinutes": 21,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "10/03/22 15:32:11"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/03/22 17:47:02"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/03/22 18:55:18"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 144,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 15,
+        "peakMinutes": 4,
+        "startTime": "10/04/22 11:12:06"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 13,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/04/22 18:50:37"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 22,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/05/22 16:04:25"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 119,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "10/05/22 20:17:07"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 142,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 18,
+        "peakMinutes": 0,
+        "startTime": "10/05/22 23:46:22"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 142,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 15,
+        "peakMinutes": 2,
+        "startTime": "10/06/22 10:58:20"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/06/22 20:49:01"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/06/22 22:02:28"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 10,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/07/22 00:22:29"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 103,
+        "belowZonesMinutes": 24,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/07/22 15:50:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/07/22 18:53:11"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 13,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/07/22 20:21:07"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/07/22 23:31:30"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/08/22 00:56:51"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 58,
+        "fatBurnMinutes": 28,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/08/22 17:30:10"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 24,
+        "fatBurnMinutes": 27,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/08/22 20:24:14"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 25,
+        "fatBurnMinutes": 25,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/09/22 13:56:25"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 27,
+        "fatBurnMinutes": 46,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/09/22 16:03:34"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/09/22 17:41:42"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/10/22 15:58:30"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "belowZonesMinutes": 28,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/10/22 17:26:24"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 149,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 10,
+        "cardioMinutes": 14,
+        "peakMinutes": 5,
+        "startTime": "10/11/22 12:03:43"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 151,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 19,
+        "peakMinutes": 5,
+        "startTime": "10/12/22 12:05:35"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 119,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/12/22 14:21:21"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 109,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/12/22 18:36:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 34,
+        "cardioMinutes": 4,
+        "peakMinutes": 0,
+        "startTime": "10/12/22 23:01:02"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 26,
+        "fatBurnMinutes": 26,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/13/22 01:26:07"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 157,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 19,
+        "peakMinutes": 9,
+        "startTime": "10/13/22 11:59:56"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 154,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 21,
+        "peakMinutes": 6,
+        "startTime": "10/14/22 11:52:14"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 20,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/14/22 15:57:13"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/14/22 17:24:15"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 20,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/14/22 18:32:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 103,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/16/22 13:52:48"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/17/22 20:44:42"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 130,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 11,
+        "peakMinutes": 0,
+        "startTime": "10/19/22 12:18:23"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 145,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 9,
+        "peakMinutes": 2,
+        "startTime": "10/19/22 14:14:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/19/22 18:33:50"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 140,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 10,
+        "cardioMinutes": 18,
+        "peakMinutes": 0,
+        "startTime": "10/20/22 11:59:54"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 108,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/20/22 21:26:30"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 42,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "10/21/22 15:12:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/21/22 18:33:45"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/21/22 20:28:06"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/22/22 00:46:39"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/22/22 18:04:21"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 146,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 19,
+        "peakMinutes": 6,
+        "startTime": "10/22/22 19:26:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/24/22 12:41:55"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 128,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/24/22 16:04:09"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 25,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "10/24/22 18:54:50"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "10/31/22 16:04:20"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "10/31/22 18:43:55"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 12,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/02/22 16:03:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/02/22 18:32:53"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/04/22 16:04:30"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "belowZonesMinutes": 39,
+        "fatBurnMinutes": 21,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "11/04/22 19:33:37"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/05/22 18:30:03"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "belowZonesMinutes": 15,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/09/22 15:28:33"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 108,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/09/22 19:34:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 32,
+        "fatBurnMinutes": 21,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/09/22 23:36:40"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 21,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "11/11/22 17:03:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/11/22 19:38:44"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 131,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 12,
+        "peakMinutes": 0,
+        "startTime": "11/11/22 21:33:55"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/11/22 23:59:02"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/12/22 19:46:58"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 138,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 11,
+        "peakMinutes": 0,
+        "startTime": "11/14/22 17:05:25"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/14/22 18:19:42"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/14/22 19:45:53"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/15/22 18:35:29"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 30,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/15/22 20:37:32"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 130,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 7,
+        "peakMinutes": 0,
+        "startTime": "11/18/22 17:07:01"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 16,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/18/22 19:34:39"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 21,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/21/22 17:04:28"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/21/22 20:54:53"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/22/22 04:03:16"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 119,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/25/22 03:16:51"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 12,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/25/22 21:52:10"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 109,
+        "belowZonesMinutes": 20,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/25/22 22:46:47"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/27/22 00:27:58"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 139,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 15,
+        "peakMinutes": 0,
+        "startTime": "11/28/22 12:26:06"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/28/22 16:58:24"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/28/22 18:28:51"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 138,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 14,
+        "peakMinutes": 0,
+        "startTime": "11/29/22 16:36:03"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 142,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 20,
+        "peakMinutes": 0,
+        "startTime": "11/30/22 14:06:24"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 22,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "11/30/22 17:04:53"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 21,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "11/30/22 20:51:54"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 142,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 16,
+        "peakMinutes": 0,
+        "startTime": "12/02/22 14:15:11"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 20,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "12/02/22 17:02:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "12/02/22 19:35:16"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/02/22 20:33:18"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "belowZonesMinutes": 18,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/05/22 17:03:38"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 17,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/05/22 18:24:42"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 18,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/06/22 05:43:58"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "12/07/22 18:01:09"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/07/22 19:35:01"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 142,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 18,
+        "peakMinutes": 0,
+        "startTime": "12/07/22 21:06:35"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 149,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 21,
+        "peakMinutes": 3,
+        "startTime": "12/09/22 14:21:51"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/09/22 18:04:38"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/09/22 19:33:22"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 137,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 13,
+        "peakMinutes": 0,
+        "startTime": "12/10/22 14:11:27"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/10/22 17:03:49"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/10/22 21:09:35"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/10/22 23:13:19"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 152,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 22,
+        "peakMinutes": 5,
+        "startTime": "12/12/22 14:31:33"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "12/12/22 18:03:16"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/12/22 19:33:44"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 17,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/12/22 21:18:44"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 163,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 11,
+        "peakMinutes": 16,
+        "startTime": "12/13/22 19:01:24"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 12,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/13/22 22:06:36"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 16,
+        "fatBurnMinutes": 23,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/14/22 02:02:08"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 149,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 26,
+        "peakMinutes": 2,
+        "startTime": "12/14/22 14:24:43"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 156,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 11,
+        "peakMinutes": 13,
+        "startTime": "12/16/22 21:45:56"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "12/17/22 04:24:36"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 97,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/17/22 06:21:37"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/17/22 23:20:36"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 160,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 12,
+        "peakMinutes": 13,
+        "startTime": "12/19/22 17:28:55"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 150,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 21,
+        "peakMinutes": 1,
+        "startTime": "12/20/22 15:35:34"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/20/22 17:46:08"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 129,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 8,
+        "peakMinutes": 0,
+        "startTime": "12/21/22 21:06:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "12/25/22 20:00:16"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 146,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 18,
+        "peakMinutes": 4,
+        "startTime": "12/26/22 16:03:29"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 149,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 22,
+        "peakMinutes": 1,
+        "startTime": "12/27/22 19:45:48"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 155,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 24,
+        "peakMinutes": 1,
+        "startTime": "12/28/22 15:49:27"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 155,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 27,
+        "peakMinutes": 0,
+        "startTime": "12/30/22 13:15:27"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 26,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/01/23 22:28:09"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/02/23 03:11:27"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 12,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/02/23 21:12:39"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 109,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/03/23 21:14:51"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/04/23 15:16:22"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 147,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 14,
+        "peakMinutes": 0,
+        "startTime": "01/04/23 22:51:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/05/23 14:07:56"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "belowZonesMinutes": 26,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/05/23 15:08:30"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/05/23 20:37:59"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/06/23 19:21:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "belowZonesMinutes": 10,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/07/23 15:38:34"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/07/23 16:57:04"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/07/23 18:28:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 124,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/09/23 19:29:17"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "01/10/23 20:06:05"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "01/10/23 21:49:20"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 146,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 22,
+        "peakMinutes": 0,
+        "startTime": "01/11/23 14:07:01"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/11/23 19:10:49"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/12/23 00:58:07"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 22,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/12/23 20:07:00"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/12/23 21:52:51"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 152,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 25,
+        "peakMinutes": 0,
+        "startTime": "01/13/23 14:20:27"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "01/13/23 23:50:01"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 127,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/16/23 00:39:45"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 19,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/16/23 13:23:50"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 162,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 18,
+        "peakMinutes": 9,
+        "startTime": "01/17/23 16:37:27"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 132,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "01/17/23 20:06:35"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "01/17/23 23:04:08"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 157,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 3,
+        "cardioMinutes": 22,
+        "peakMinutes": 7,
+        "startTime": "01/18/23 12:52:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 120,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "01/18/23 17:50:14"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 9,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/19/23 02:17:55"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "01/19/23 20:04:39"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/19/23 21:53:53"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 154,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 21,
+        "peakMinutes": 6,
+        "startTime": "01/20/23 14:00:19"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/20/23 16:22:53"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/22/23 15:37:44"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 116,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/23/23 01:02:45"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 118,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/23/23 19:02:36"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 133,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "01/24/23 20:05:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 129,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 6,
+        "peakMinutes": 0,
+        "startTime": "01/24/23 23:02:51"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 144,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 27,
+        "peakMinutes": 0,
+        "startTime": "01/25/23 14:39:25"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "belowZonesMinutes": 32,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/25/23 17:00:17"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "01/26/23 20:08:15"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 129,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "01/26/23 21:47:14"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 157,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 1,
+        "cardioMinutes": 29,
+        "peakMinutes": 3,
+        "startTime": "01/27/23 14:04:30"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 141,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 10,
+        "peakMinutes": 0,
+        "startTime": "01/27/23 19:33:57"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "01/27/23 20:55:01"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 134,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 11,
+        "peakMinutes": 0,
+        "startTime": "01/28/23 20:17:05"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 135,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 8,
+        "peakMinutes": 0,
+        "startTime": "01/31/23 20:07:44"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "01/31/23 23:01:53"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 150,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 27,
+        "peakMinutes": 1,
+        "startTime": "02/07/23 17:19:24"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 132,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 6,
+        "peakMinutes": 0,
+        "startTime": "02/07/23 20:07:34"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 126,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "02/07/23 23:03:25"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 150,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 25,
+        "peakMinutes": 0,
+        "startTime": "02/08/23 13:55:40"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 158,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 23,
+        "peakMinutes": 6,
+        "startTime": "02/10/23 13:33:04"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 157,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 22,
+        "peakMinutes": 1,
+        "startTime": "02/14/23 15:25:53"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 128,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "02/14/23 20:11:02"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "02/14/23 23:01:46"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "02/15/23 22:09:00"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "02/16/23 20:08:18"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "02/16/23 21:47:18"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 10,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "02/17/23 22:15:07"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "02/18/23 04:36:33"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 5,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "02/20/23 23:00:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 133,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 14,
+        "peakMinutes": 0,
+        "startTime": "02/21/23 16:29:04"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 111,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 7,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "02/21/23 18:08:07"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 123,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 16,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "02/21/23 20:11:00"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 125,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 3,
+        "peakMinutes": 0,
+        "startTime": "02/21/23 23:03:28"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 152,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 25,
+        "peakMinutes": 4,
+        "startTime": "02/22/23 13:35:04"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 8,
+        "cardioMinutes": 2,
+        "peakMinutes": 0,
+        "startTime": "02/22/23 17:43:24"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 9,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "02/23/23 20:13:32"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 8,
+        "fatBurnMinutes": 10,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "02/23/23 21:51:39"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 156,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 14,
+        "peakMinutes": 8,
+        "startTime": "02/24/23 13:36:36"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 129,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 19,
+        "cardioMinutes": 5,
+        "peakMinutes": 0,
+        "startTime": "02/26/23 22:20:27"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 152,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 19,
+        "peakMinutes": 3,
+        "startTime": "02/27/23 13:54:58"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 122,
+        "belowZonesMinutes": 3,
+        "fatBurnMinutes": 6,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "02/28/23 13:55:54"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 160,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 0,
+        "cardioMinutes": 19,
+        "peakMinutes": 9,
+        "startTime": "02/28/23 14:06:09"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "02/28/23 20:11:22"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 13,
+        "cardioMinutes": 1,
+        "peakMinutes": 0,
+        "startTime": "02/28/23 23:02:03"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 155,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 2,
+        "cardioMinutes": 16,
+        "peakMinutes": 10,
+        "startTime": "03/01/23 13:42:40"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 112,
+        "belowZonesMinutes": 14,
+        "fatBurnMinutes": 18,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/01/23 16:57:15"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 121,
+        "belowZonesMinutes": 1,
+        "fatBurnMinutes": 17,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/02/23 20:07:03"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 117,
+        "belowZonesMinutes": 2,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/02/23 21:52:51"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 157,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 5,
+        "cardioMinutes": 13,
+        "peakMinutes": 12,
+        "startTime": "03/03/23 13:46:38"
+    },
+    {
+        "activityName": "Run",
+        "averageHeartRate": 144,
+        "belowZonesMinutes": 0,
+        "fatBurnMinutes": 4,
+        "cardioMinutes": 20,
+        "peakMinutes": 0,
+        "startTime": "03/04/23 16:45:07"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 11,
+        "fatBurnMinutes": 23,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/08/23 18:10:26"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "belowZonesMinutes": 4,
+        "fatBurnMinutes": 14,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/09/23 20:07:00"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 115,
+        "belowZonesMinutes": 6,
+        "fatBurnMinutes": 12,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/09/23 21:46:01"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "belowZonesMinutes": 20,
+        "fatBurnMinutes": 11,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/12/23 19:13:31"
+    },
+    {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "belowZonesMinutes": 7,
+        "fatBurnMinutes": 15,
+        "cardioMinutes": 0,
+        "peakMinutes": 0,
+        "startTime": "03/13/23 18:35:34"
+    }
+]

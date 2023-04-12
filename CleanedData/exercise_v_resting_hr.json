@@ -1,0 +1,1310 @@
+[
+    {
+        "date": "03/16/22",
+        "resting_hr": 60.0,
+        "total_exercise": 23,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/17/22",
+        "resting_hr": 62.0,
+        "total_exercise": 72,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/20/22",
+        "resting_hr": 68.0,
+        "total_exercise": 10,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/21/22",
+        "resting_hr": 70.0,
+        "total_exercise": 24,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/22/22",
+        "resting_hr": 67.0,
+        "total_exercise": 47,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/23/22",
+        "resting_hr": 68.0,
+        "total_exercise": 51,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/28/22",
+        "resting_hr": 71.0,
+        "total_exercise": 19,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/29/22",
+        "resting_hr": 73.0,
+        "total_exercise": 40,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/31/22",
+        "resting_hr": 70.0,
+        "total_exercise": 44,
+        "month": "March 2022"
+    },
+    {
+        "date": "04/04/22",
+        "resting_hr": 71.0,
+        "total_exercise": 16,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/07/22",
+        "resting_hr": 70.0,
+        "total_exercise": 45,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/11/22",
+        "resting_hr": 69.0,
+        "total_exercise": 25,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/12/22",
+        "resting_hr": 69.0,
+        "total_exercise": 121,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/14/22",
+        "resting_hr": 73.0,
+        "total_exercise": 45,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/17/22",
+        "resting_hr": 73.0,
+        "total_exercise": 11,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/18/22",
+        "resting_hr": 71.0,
+        "total_exercise": 26,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/19/22",
+        "resting_hr": 69.0,
+        "total_exercise": 38,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/20/22",
+        "resting_hr": 68.0,
+        "total_exercise": 26,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/21/22",
+        "resting_hr": 67.0,
+        "total_exercise": 39,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/22/22",
+        "resting_hr": 68.0,
+        "total_exercise": 26,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/25/22",
+        "resting_hr": 70.0,
+        "total_exercise": 34,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/26/22",
+        "resting_hr": 68.0,
+        "total_exercise": 63,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/27/22",
+        "resting_hr": 70.0,
+        "total_exercise": 25,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/30/22",
+        "resting_hr": 67.0,
+        "total_exercise": 45,
+        "month": "April 2022"
+    },
+    {
+        "date": "05/03/22",
+        "resting_hr": 69.0,
+        "total_exercise": 51,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/04/22",
+        "resting_hr": 67.0,
+        "total_exercise": 84,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/05/22",
+        "resting_hr": 67.0,
+        "total_exercise": 60,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/06/22",
+        "resting_hr": 67.0,
+        "total_exercise": 27,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/07/22",
+        "resting_hr": 69.0,
+        "total_exercise": 28,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/12/22",
+        "resting_hr": 70.0,
+        "total_exercise": 31,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/14/22",
+        "resting_hr": 71.0,
+        "total_exercise": 95,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/16/22",
+        "resting_hr": 71.0,
+        "total_exercise": 27,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/17/22",
+        "resting_hr": 69.0,
+        "total_exercise": 85,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/18/22",
+        "resting_hr": 71.0,
+        "total_exercise": 27,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/21/22",
+        "resting_hr": 71.0,
+        "total_exercise": 28,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/22/22",
+        "resting_hr": 68.0,
+        "total_exercise": 32,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/24/22",
+        "resting_hr": 69.0,
+        "total_exercise": 35,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/25/22",
+        "resting_hr": 67.0,
+        "total_exercise": 35,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/26/22",
+        "resting_hr": 65.0,
+        "total_exercise": 36,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/27/22",
+        "resting_hr": 67.0,
+        "total_exercise": 39,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/30/22",
+        "resting_hr": 68.0,
+        "total_exercise": 81,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/31/22",
+        "resting_hr": 67.0,
+        "total_exercise": 67,
+        "month": "May 2022"
+    },
+    {
+        "date": "06/01/22",
+        "resting_hr": 67.0,
+        "total_exercise": 120,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/02/22",
+        "resting_hr": 68.0,
+        "total_exercise": 64,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/03/22",
+        "resting_hr": 69.0,
+        "total_exercise": 70,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/04/22",
+        "resting_hr": 69.0,
+        "total_exercise": 16,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/05/22",
+        "resting_hr": 69.0,
+        "total_exercise": 21,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/06/22",
+        "resting_hr": 68.0,
+        "total_exercise": 15,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/07/22",
+        "resting_hr": 69.0,
+        "total_exercise": 67,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/08/22",
+        "resting_hr": 68.0,
+        "total_exercise": 80,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/09/22",
+        "resting_hr": 71.0,
+        "total_exercise": 74,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/10/22",
+        "resting_hr": 69.0,
+        "total_exercise": 74,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/12/22",
+        "resting_hr": 68.0,
+        "total_exercise": 11,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/13/22",
+        "resting_hr": 67.0,
+        "total_exercise": 66,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/14/22",
+        "resting_hr": 68.0,
+        "total_exercise": 66,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/15/22",
+        "resting_hr": 65.0,
+        "total_exercise": 45,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/16/22",
+        "resting_hr": 63.0,
+        "total_exercise": 69,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/17/22",
+        "resting_hr": 61.0,
+        "total_exercise": 41,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/18/22",
+        "resting_hr": 58.0,
+        "total_exercise": 28,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/20/22",
+        "resting_hr": 60.0,
+        "total_exercise": 42,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/21/22",
+        "resting_hr": 58.0,
+        "total_exercise": 91,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/22/22",
+        "resting_hr": 57.0,
+        "total_exercise": 42,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/23/22",
+        "resting_hr": 57.0,
+        "total_exercise": 152,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/24/22",
+        "resting_hr": 58.0,
+        "total_exercise": 64,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/26/22",
+        "resting_hr": 62.0,
+        "total_exercise": 11,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/27/22",
+        "resting_hr": 59.0,
+        "total_exercise": 82,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/28/22",
+        "resting_hr": 61.0,
+        "total_exercise": 84,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/29/22",
+        "resting_hr": 63.0,
+        "total_exercise": 72,
+        "month": "June 2022"
+    },
+    {
+        "date": "07/01/22",
+        "resting_hr": 66.0,
+        "total_exercise": 71,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/02/22",
+        "resting_hr": 65.0,
+        "total_exercise": 40,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/06/22",
+        "resting_hr": 64.0,
+        "total_exercise": 38,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/07/22",
+        "resting_hr": 64.0,
+        "total_exercise": 38,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/08/22",
+        "resting_hr": 66.0,
+        "total_exercise": 100,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/09/22",
+        "resting_hr": 66.0,
+        "total_exercise": 29,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/11/22",
+        "resting_hr": 69.0,
+        "total_exercise": 42,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/12/22",
+        "resting_hr": 68.0,
+        "total_exercise": 52,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/13/22",
+        "resting_hr": 71.0,
+        "total_exercise": 71,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/14/22",
+        "resting_hr": 69.0,
+        "total_exercise": 83,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/15/22",
+        "resting_hr": 66.0,
+        "total_exercise": 76,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/16/22",
+        "resting_hr": 68.0,
+        "total_exercise": 10,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/18/22",
+        "resting_hr": 69.0,
+        "total_exercise": 43,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/19/22",
+        "resting_hr": 67.0,
+        "total_exercise": 52,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/20/22",
+        "resting_hr": 64.0,
+        "total_exercise": 39,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/21/22",
+        "resting_hr": 63.0,
+        "total_exercise": 49,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/22/22",
+        "resting_hr": 65.0,
+        "total_exercise": 38,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/23/22",
+        "resting_hr": 68.0,
+        "total_exercise": 22,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/24/22",
+        "resting_hr": 69.0,
+        "total_exercise": 11,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/31/22",
+        "resting_hr": 69.0,
+        "total_exercise": 10,
+        "month": "July 2022"
+    },
+    {
+        "date": "08/06/22",
+        "resting_hr": 68.0,
+        "total_exercise": 33,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/15/22",
+        "resting_hr": 66.0,
+        "total_exercise": 11,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/17/22",
+        "resting_hr": 69.0,
+        "total_exercise": 33,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/18/22",
+        "resting_hr": 67.0,
+        "total_exercise": 42,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/21/22",
+        "resting_hr": 73.0,
+        "total_exercise": 58,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/24/22",
+        "resting_hr": 75.0,
+        "total_exercise": 70,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/25/22",
+        "resting_hr": 74.0,
+        "total_exercise": 37,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/26/22",
+        "resting_hr": 73.0,
+        "total_exercise": 43,
+        "month": "August 2022"
+    },
+    {
+        "date": "09/01/22",
+        "resting_hr": 81.0,
+        "total_exercise": 23,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/03/22",
+        "resting_hr": 76.0,
+        "total_exercise": 11,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/04/22",
+        "resting_hr": 74.0,
+        "total_exercise": 33,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/06/22",
+        "resting_hr": 71.0,
+        "total_exercise": 29,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/07/22",
+        "resting_hr": 68.0,
+        "total_exercise": 39,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/09/22",
+        "resting_hr": 65.0,
+        "total_exercise": 80,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/10/22",
+        "resting_hr": 64.0,
+        "total_exercise": 38,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/11/22",
+        "resting_hr": 65.0,
+        "total_exercise": 27,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/13/22",
+        "resting_hr": 65.0,
+        "total_exercise": 19,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/16/22",
+        "resting_hr": 67.0,
+        "total_exercise": 42,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/19/22",
+        "resting_hr": 69.0,
+        "total_exercise": 51,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/20/22",
+        "resting_hr": 69.0,
+        "total_exercise": 50,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/23/22",
+        "resting_hr": 72.0,
+        "total_exercise": 43,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/24/22",
+        "resting_hr": 69.0,
+        "total_exercise": 41,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/26/22",
+        "resting_hr": 72.0,
+        "total_exercise": 82,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/27/22",
+        "resting_hr": 70.0,
+        "total_exercise": 30,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/28/22",
+        "resting_hr": 68.0,
+        "total_exercise": 39,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/29/22",
+        "resting_hr": 68.0,
+        "total_exercise": 45,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/30/22",
+        "resting_hr": 65.0,
+        "total_exercise": 121,
+        "month": "September 2022"
+    },
+    {
+        "date": "10/01/22",
+        "resting_hr": 65.0,
+        "total_exercise": 30,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/02/22",
+        "resting_hr": 64.0,
+        "total_exercise": 84,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/03/22",
+        "resting_hr": 66.0,
+        "total_exercise": 98,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/04/22",
+        "resting_hr": 65.0,
+        "total_exercise": 49,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/05/22",
+        "resting_hr": 63.0,
+        "total_exercise": 72,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/06/22",
+        "resting_hr": 62.0,
+        "total_exercise": 59,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/07/22",
+        "resting_hr": 62.0,
+        "total_exercise": 96,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/08/22",
+        "resting_hr": 64.0,
+        "total_exercise": 148,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/09/22",
+        "resting_hr": 66.0,
+        "total_exercise": 146,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/10/22",
+        "resting_hr": 67.0,
+        "total_exercise": 66,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/11/22",
+        "resting_hr": 66.0,
+        "total_exercise": 29,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/12/22",
+        "resting_hr": 63.0,
+        "total_exercise": 109,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/13/22",
+        "resting_hr": 63.0,
+        "total_exercise": 81,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/14/22",
+        "resting_hr": 61.0,
+        "total_exercise": 97,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/16/22",
+        "resting_hr": 65.0,
+        "total_exercise": 10,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/17/22",
+        "resting_hr": 65.0,
+        "total_exercise": 18,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/19/22",
+        "resting_hr": 66.0,
+        "total_exercise": 66,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/20/22",
+        "resting_hr": 68.0,
+        "total_exercise": 42,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/21/22",
+        "resting_hr": 67.0,
+        "total_exercise": 90,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/22/22",
+        "resting_hr": 69.0,
+        "total_exercise": 50,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/24/22",
+        "resting_hr": 70.0,
+        "total_exercise": 74,
+        "month": "October 2022"
+    },
+    {
+        "date": "11/02/22",
+        "resting_hr": 64.0,
+        "total_exercise": 43,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/04/22",
+        "resting_hr": 63.0,
+        "total_exercise": 87,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/05/22",
+        "resting_hr": 62.0,
+        "total_exercise": 29,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/09/22",
+        "resting_hr": 61.0,
+        "total_exercise": 92,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/11/22",
+        "resting_hr": 64.0,
+        "total_exercise": 90,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/12/22",
+        "resting_hr": 65.0,
+        "total_exercise": 11,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/15/22",
+        "resting_hr": 69.0,
+        "total_exercise": 63,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/18/22",
+        "resting_hr": 71.0,
+        "total_exercise": 49,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/21/22",
+        "resting_hr": 73.0,
+        "total_exercise": 43,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/22/22",
+        "resting_hr": 75.0,
+        "total_exercise": 23,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/25/22",
+        "resting_hr": 75.0,
+        "total_exercise": 46,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/27/22",
+        "resting_hr": 75.0,
+        "total_exercise": 13,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/28/22",
+        "resting_hr": 74.0,
+        "total_exercise": 78,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/29/22",
+        "resting_hr": 72.0,
+        "total_exercise": 29,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/30/22",
+        "resting_hr": 73.0,
+        "total_exercise": 84,
+        "month": "November 2022"
+    },
+    {
+        "date": "12/02/22",
+        "resting_hr": 71.0,
+        "total_exercise": 91,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/05/22",
+        "resting_hr": 70.0,
+        "total_exercise": 54,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/06/22",
+        "resting_hr": 72.0,
+        "total_exercise": 24,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/07/22",
+        "resting_hr": 73.0,
+        "total_exercise": 65,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/09/22",
+        "resting_hr": 69.0,
+        "total_exercise": 68,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/10/22",
+        "resting_hr": 67.0,
+        "total_exercise": 57,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/12/22",
+        "resting_hr": 70.0,
+        "total_exercise": 105,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/13/22",
+        "resting_hr": 68.0,
+        "total_exercise": 57,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/14/22",
+        "resting_hr": 70.0,
+        "total_exercise": 69,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/16/22",
+        "resting_hr": 70.0,
+        "total_exercise": 29,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/17/22",
+        "resting_hr": 70.0,
+        "total_exercise": 34,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/19/22",
+        "resting_hr": 75.0,
+        "total_exercise": 29,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/20/22",
+        "resting_hr": 74.0,
+        "total_exercise": 39,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/21/22",
+        "resting_hr": 73.0,
+        "total_exercise": 23,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/25/22",
+        "resting_hr": 74.0,
+        "total_exercise": 13,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/26/22",
+        "resting_hr": 72.0,
+        "total_exercise": 34,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/27/22",
+        "resting_hr": 69.0,
+        "total_exercise": 29,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/28/22",
+        "resting_hr": 70.0,
+        "total_exercise": 29,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/30/22",
+        "resting_hr": 71.0,
+        "total_exercise": 29,
+        "month": "December 2022"
+    },
+    {
+        "date": "01/01/23",
+        "resting_hr": 74.0,
+        "total_exercise": 34,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/02/23",
+        "resting_hr": 72.0,
+        "total_exercise": 22,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/03/23",
+        "resting_hr": 76.0,
+        "total_exercise": 11,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/04/23",
+        "resting_hr": 73.0,
+        "total_exercise": 31,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/05/23",
+        "resting_hr": 71.0,
+        "total_exercise": 49,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/06/23",
+        "resting_hr": 68.0,
+        "total_exercise": 12,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/07/23",
+        "resting_hr": 67.0,
+        "total_exercise": 41,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/09/23",
+        "resting_hr": 67.0,
+        "total_exercise": 11,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/10/23",
+        "resting_hr": 69.0,
+        "total_exercise": 40,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/11/23",
+        "resting_hr": 69.0,
+        "total_exercise": 40,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/12/23",
+        "resting_hr": 71.0,
+        "total_exercise": 54,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/13/23",
+        "resting_hr": 73.0,
+        "total_exercise": 41,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/16/23",
+        "resting_hr": 73.0,
+        "total_exercise": 38,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/17/23",
+        "resting_hr": 73.0,
+        "total_exercise": 69,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/18/23",
+        "resting_hr": 71.0,
+        "total_exercise": 45,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/19/23",
+        "resting_hr": 74.0,
+        "total_exercise": 49,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/20/23",
+        "resting_hr": 72.0,
+        "total_exercise": 47,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/22/23",
+        "resting_hr": 72.0,
+        "total_exercise": 11,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/23/23",
+        "resting_hr": 70.0,
+        "total_exercise": 27,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/24/23",
+        "resting_hr": 68.0,
+        "total_exercise": 42,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/25/23",
+        "resting_hr": 69.0,
+        "total_exercise": 71,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/26/23",
+        "resting_hr": 67.0,
+        "total_exercise": 37,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/27/23",
+        "resting_hr": 67.0,
+        "total_exercise": 70,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/28/23",
+        "resting_hr": 64.0,
+        "total_exercise": 25,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/31/23",
+        "resting_hr": 65.0,
+        "total_exercise": 37,
+        "month": "January 2023"
+    },
+    {
+        "date": "02/08/23",
+        "resting_hr": 63.0,
+        "total_exercise": 33,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/10/23",
+        "resting_hr": 65.0,
+        "total_exercise": 29,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/14/23",
+        "resting_hr": 64.0,
+        "total_exercise": 59,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/15/23",
+        "resting_hr": 62.0,
+        "total_exercise": 10,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/16/23",
+        "resting_hr": 61.0,
+        "total_exercise": 36,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/17/23",
+        "resting_hr": 63.0,
+        "total_exercise": 12,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/18/23",
+        "resting_hr": 64.0,
+        "total_exercise": 10,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/20/23",
+        "resting_hr": 63.0,
+        "total_exercise": 16,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/21/23",
+        "resting_hr": 61.0,
+        "total_exercise": 83,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/22/23",
+        "resting_hr": 62.0,
+        "total_exercise": 46,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/23/23",
+        "resting_hr": 63.0,
+        "total_exercise": 27,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/24/23",
+        "resting_hr": 65.0,
+        "total_exercise": 26,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/26/23",
+        "resting_hr": 66.0,
+        "total_exercise": 24,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/27/23",
+        "resting_hr": 64.0,
+        "total_exercise": 26,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/28/23",
+        "resting_hr": 63.0,
+        "total_exercise": 73,
+        "month": "February 2023"
+    },
+    {
+        "date": "03/01/23",
+        "resting_hr": 63.0,
+        "total_exercise": 61,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/02/23",
+        "resting_hr": 65.0,
+        "total_exercise": 35,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/03/23",
+        "resting_hr": 64.0,
+        "total_exercise": 30,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/04/23",
+        "resting_hr": 62.0,
+        "total_exercise": 24,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/08/23",
+        "resting_hr": 68.0,
+        "total_exercise": 34,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/09/23",
+        "resting_hr": 65.0,
+        "total_exercise": 36,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/12/23",
+        "resting_hr": 65.0,
+        "total_exercise": 31,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/13/23",
+        "resting_hr": 63.0,
+        "total_exercise": 22,
+        "month": "March 2023"
+    }
+]

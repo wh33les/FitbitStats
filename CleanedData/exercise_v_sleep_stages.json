@@ -1,0 +1,1640 @@
+[
+    {
+        "date": "03/15/22",
+        "total_exercise": 83,
+        "deep_sleep": 120,
+        "light_sleep": 228,
+        "rem_sleep": 87,
+        "total_sleep": 7.25,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/16/22",
+        "total_exercise": 23,
+        "deep_sleep": 63,
+        "light_sleep": 331,
+        "rem_sleep": 79,
+        "total_sleep": 7.883333333333334,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/17/22",
+        "total_exercise": 72,
+        "deep_sleep": 51,
+        "light_sleep": 309,
+        "rem_sleep": 35,
+        "total_sleep": 6.583333333333333,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/20/22",
+        "total_exercise": 10,
+        "deep_sleep": 155,
+        "light_sleep": 530,
+        "rem_sleep": 97,
+        "total_sleep": 13.033333333333333,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/21/22",
+        "total_exercise": 24,
+        "deep_sleep": 115,
+        "light_sleep": 176,
+        "rem_sleep": 104,
+        "total_sleep": 6.583333333333333,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/22/22",
+        "total_exercise": 47,
+        "deep_sleep": 82,
+        "light_sleep": 195,
+        "rem_sleep": 99,
+        "total_sleep": 6.266666666666667,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/28/22",
+        "total_exercise": 19,
+        "deep_sleep": 109,
+        "light_sleep": 250,
+        "rem_sleep": 100,
+        "total_sleep": 7.65,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/29/22",
+        "total_exercise": 40,
+        "deep_sleep": 92,
+        "light_sleep": 352,
+        "rem_sleep": 136,
+        "total_sleep": 9.666666666666666,
+        "month": "March 2022"
+    },
+    {
+        "date": "03/31/22",
+        "total_exercise": 44,
+        "deep_sleep": 67,
+        "light_sleep": 492,
+        "rem_sleep": 150,
+        "total_sleep": 11.816666666666666,
+        "month": "March 2022"
+    },
+    {
+        "date": "04/05/22",
+        "total_exercise": 11,
+        "deep_sleep": 33,
+        "light_sleep": 459,
+        "rem_sleep": 65,
+        "total_sleep": 9.283333333333333,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/07/22",
+        "total_exercise": 45,
+        "deep_sleep": 147,
+        "light_sleep": 317,
+        "rem_sleep": 160,
+        "total_sleep": 10.4,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/11/22",
+        "total_exercise": 25,
+        "deep_sleep": 198,
+        "light_sleep": 810,
+        "rem_sleep": 164,
+        "total_sleep": 19.533333333333335,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/12/22",
+        "total_exercise": 121,
+        "deep_sleep": 65,
+        "light_sleep": 250,
+        "rem_sleep": 105,
+        "total_sleep": 7.0,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/17/22",
+        "total_exercise": 11,
+        "deep_sleep": 56,
+        "light_sleep": 292,
+        "rem_sleep": 86,
+        "total_sleep": 7.233333333333333,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/18/22",
+        "total_exercise": 26,
+        "deep_sleep": 45,
+        "light_sleep": 417,
+        "rem_sleep": 135,
+        "total_sleep": 9.95,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/19/22",
+        "total_exercise": 38,
+        "deep_sleep": 87,
+        "light_sleep": 397,
+        "rem_sleep": 103,
+        "total_sleep": 9.783333333333333,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/20/22",
+        "total_exercise": 26,
+        "deep_sleep": 65,
+        "light_sleep": 378,
+        "rem_sleep": 150,
+        "total_sleep": 9.883333333333333,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/21/22",
+        "total_exercise": 39,
+        "deep_sleep": 124,
+        "light_sleep": 322,
+        "rem_sleep": 129,
+        "total_sleep": 9.583333333333334,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/25/22",
+        "total_exercise": 34,
+        "deep_sleep": 117,
+        "light_sleep": 249,
+        "rem_sleep": 119,
+        "total_sleep": 8.083333333333334,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/26/22",
+        "total_exercise": 63,
+        "deep_sleep": 69,
+        "light_sleep": 334,
+        "rem_sleep": 120,
+        "total_sleep": 8.716666666666667,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/27/22",
+        "total_exercise": 25,
+        "deep_sleep": 117,
+        "light_sleep": 340,
+        "rem_sleep": 89,
+        "total_sleep": 9.1,
+        "month": "April 2022"
+    },
+    {
+        "date": "04/30/22",
+        "total_exercise": 45,
+        "deep_sleep": 61,
+        "light_sleep": 367,
+        "rem_sleep": 35,
+        "total_sleep": 7.716666666666667,
+        "month": "April 2022"
+    },
+    {
+        "date": "05/03/22",
+        "total_exercise": 51,
+        "deep_sleep": 98,
+        "light_sleep": 303,
+        "rem_sleep": 122,
+        "total_sleep": 8.716666666666667,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/04/22",
+        "total_exercise": 84,
+        "deep_sleep": 156,
+        "light_sleep": 400,
+        "rem_sleep": 72,
+        "total_sleep": 10.466666666666667,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/05/22",
+        "total_exercise": 60,
+        "deep_sleep": 70,
+        "light_sleep": 266,
+        "rem_sleep": 49,
+        "total_sleep": 6.416666666666667,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/06/22",
+        "total_exercise": 27,
+        "deep_sleep": 46,
+        "light_sleep": 341,
+        "rem_sleep": 83,
+        "total_sleep": 7.833333333333333,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/12/22",
+        "total_exercise": 31,
+        "deep_sleep": 55,
+        "light_sleep": 197,
+        "rem_sleep": 104,
+        "total_sleep": 5.933333333333334,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/14/22",
+        "total_exercise": 95,
+        "deep_sleep": 108,
+        "light_sleep": 345,
+        "rem_sleep": 125,
+        "total_sleep": 9.633333333333333,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/16/22",
+        "total_exercise": 27,
+        "deep_sleep": 62,
+        "light_sleep": 346,
+        "rem_sleep": 117,
+        "total_sleep": 8.75,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/17/22",
+        "total_exercise": 85,
+        "deep_sleep": 95,
+        "light_sleep": 257,
+        "rem_sleep": 84,
+        "total_sleep": 7.266666666666667,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/18/22",
+        "total_exercise": 27,
+        "deep_sleep": 83,
+        "light_sleep": 221,
+        "rem_sleep": 70,
+        "total_sleep": 6.233333333333333,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/22/22",
+        "total_exercise": 32,
+        "deep_sleep": 34,
+        "light_sleep": 222,
+        "rem_sleep": 65,
+        "total_sleep": 5.35,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/24/22",
+        "total_exercise": 35,
+        "deep_sleep": 41,
+        "light_sleep": 247,
+        "rem_sleep": 118,
+        "total_sleep": 6.766666666666667,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/25/22",
+        "total_exercise": 35,
+        "deep_sleep": 69,
+        "light_sleep": 263,
+        "rem_sleep": 124,
+        "total_sleep": 7.6,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/26/22",
+        "total_exercise": 36,
+        "deep_sleep": 67,
+        "light_sleep": 339,
+        "rem_sleep": 106,
+        "total_sleep": 8.533333333333333,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/30/22",
+        "total_exercise": 81,
+        "deep_sleep": 46,
+        "light_sleep": 212,
+        "rem_sleep": 140,
+        "total_sleep": 6.633333333333334,
+        "month": "May 2022"
+    },
+    {
+        "date": "05/31/22",
+        "total_exercise": 67,
+        "deep_sleep": 89,
+        "light_sleep": 254,
+        "rem_sleep": 106,
+        "total_sleep": 7.483333333333333,
+        "month": "May 2022"
+    },
+    {
+        "date": "06/01/22",
+        "total_exercise": 120,
+        "deep_sleep": 43,
+        "light_sleep": 311,
+        "rem_sleep": 107,
+        "total_sleep": 7.683333333333334,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/02/22",
+        "total_exercise": 64,
+        "deep_sleep": 61,
+        "light_sleep": 238,
+        "rem_sleep": 156,
+        "total_sleep": 7.583333333333333,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/03/22",
+        "total_exercise": 70,
+        "deep_sleep": 23,
+        "light_sleep": 328,
+        "rem_sleep": 105,
+        "total_sleep": 7.6,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/04/22",
+        "total_exercise": 16,
+        "deep_sleep": 107,
+        "light_sleep": 454,
+        "rem_sleep": 98,
+        "total_sleep": 10.983333333333333,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/06/22",
+        "total_exercise": 15,
+        "deep_sleep": 329,
+        "light_sleep": 776,
+        "rem_sleep": 218,
+        "total_sleep": 22.05,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/07/22",
+        "total_exercise": 67,
+        "deep_sleep": 36,
+        "light_sleep": 276,
+        "rem_sleep": 45,
+        "total_sleep": 5.95,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/08/22",
+        "total_exercise": 80,
+        "deep_sleep": 95,
+        "light_sleep": 267,
+        "rem_sleep": 115,
+        "total_sleep": 7.95,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/09/22",
+        "total_exercise": 74,
+        "deep_sleep": 90,
+        "light_sleep": 254,
+        "rem_sleep": 144,
+        "total_sleep": 8.133333333333333,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/12/22",
+        "total_exercise": 11,
+        "deep_sleep": 77,
+        "light_sleep": 325,
+        "rem_sleep": 50,
+        "total_sleep": 7.533333333333333,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/13/22",
+        "total_exercise": 66,
+        "deep_sleep": 125,
+        "light_sleep": 288,
+        "rem_sleep": 72,
+        "total_sleep": 8.083333333333334,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/14/22",
+        "total_exercise": 66,
+        "deep_sleep": 131,
+        "light_sleep": 235,
+        "rem_sleep": 167,
+        "total_sleep": 8.883333333333333,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/15/22",
+        "total_exercise": 45,
+        "deep_sleep": 42,
+        "light_sleep": 246,
+        "rem_sleep": 85,
+        "total_sleep": 6.216666666666667,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/16/22",
+        "total_exercise": 69,
+        "deep_sleep": 123,
+        "light_sleep": 276,
+        "rem_sleep": 121,
+        "total_sleep": 8.666666666666666,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/17/22",
+        "total_exercise": 41,
+        "deep_sleep": 110,
+        "light_sleep": 376,
+        "rem_sleep": 105,
+        "total_sleep": 9.85,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/18/22",
+        "total_exercise": 28,
+        "deep_sleep": 61,
+        "light_sleep": 294,
+        "rem_sleep": 84,
+        "total_sleep": 7.316666666666666,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/20/22",
+        "total_exercise": 42,
+        "deep_sleep": 103,
+        "light_sleep": 241,
+        "rem_sleep": 136,
+        "total_sleep": 8.0,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/21/22",
+        "total_exercise": 91,
+        "deep_sleep": 68,
+        "light_sleep": 227,
+        "rem_sleep": 96,
+        "total_sleep": 6.516666666666667,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/22/22",
+        "total_exercise": 42,
+        "deep_sleep": 87,
+        "light_sleep": 230,
+        "rem_sleep": 86,
+        "total_sleep": 6.716666666666667,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/23/22",
+        "total_exercise": 152,
+        "deep_sleep": 51,
+        "light_sleep": 295,
+        "rem_sleep": 83,
+        "total_sleep": 7.15,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/24/22",
+        "total_exercise": 64,
+        "deep_sleep": 125,
+        "light_sleep": 367,
+        "rem_sleep": 109,
+        "total_sleep": 10.016666666666667,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/27/22",
+        "total_exercise": 82,
+        "deep_sleep": 116,
+        "light_sleep": 537,
+        "rem_sleep": 165,
+        "total_sleep": 13.633333333333333,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/28/22",
+        "total_exercise": 84,
+        "deep_sleep": 81,
+        "light_sleep": 338,
+        "rem_sleep": 118,
+        "total_sleep": 8.95,
+        "month": "June 2022"
+    },
+    {
+        "date": "06/29/22",
+        "total_exercise": 72,
+        "deep_sleep": 102,
+        "light_sleep": 298,
+        "rem_sleep": 120,
+        "total_sleep": 8.666666666666666,
+        "month": "June 2022"
+    },
+    {
+        "date": "07/02/22",
+        "total_exercise": 40,
+        "deep_sleep": 95,
+        "light_sleep": 594,
+        "rem_sleep": 156,
+        "total_sleep": 14.083333333333334,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/06/22",
+        "total_exercise": 38,
+        "deep_sleep": 89,
+        "light_sleep": 291,
+        "rem_sleep": 117,
+        "total_sleep": 8.283333333333333,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/07/22",
+        "total_exercise": 38,
+        "deep_sleep": 71,
+        "light_sleep": 311,
+        "rem_sleep": 78,
+        "total_sleep": 7.666666666666667,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/08/22",
+        "total_exercise": 100,
+        "deep_sleep": 109,
+        "light_sleep": 373,
+        "rem_sleep": 61,
+        "total_sleep": 9.05,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/09/22",
+        "total_exercise": 29,
+        "deep_sleep": 65,
+        "light_sleep": 311,
+        "rem_sleep": 102,
+        "total_sleep": 7.966666666666667,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/11/22",
+        "total_exercise": 42,
+        "deep_sleep": 6,
+        "light_sleep": 239,
+        "rem_sleep": 39,
+        "total_sleep": 4.733333333333333,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/12/22",
+        "total_exercise": 52,
+        "deep_sleep": 134,
+        "light_sleep": 446,
+        "rem_sleep": 124,
+        "total_sleep": 11.733333333333333,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/13/22",
+        "total_exercise": 71,
+        "deep_sleep": 97,
+        "light_sleep": 211,
+        "rem_sleep": 119,
+        "total_sleep": 7.116666666666666,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/14/22",
+        "total_exercise": 83,
+        "deep_sleep": 115,
+        "light_sleep": 234,
+        "rem_sleep": 77,
+        "total_sleep": 7.1,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/15/22",
+        "total_exercise": 76,
+        "deep_sleep": 83,
+        "light_sleep": 271,
+        "rem_sleep": 113,
+        "total_sleep": 7.783333333333333,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/16/22",
+        "total_exercise": 10,
+        "deep_sleep": 163,
+        "light_sleep": 300,
+        "rem_sleep": 147,
+        "total_sleep": 10.166666666666666,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/18/22",
+        "total_exercise": 43,
+        "deep_sleep": 69,
+        "light_sleep": 275,
+        "rem_sleep": 102,
+        "total_sleep": 7.433333333333334,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/19/22",
+        "total_exercise": 52,
+        "deep_sleep": 54,
+        "light_sleep": 365,
+        "rem_sleep": 119,
+        "total_sleep": 8.966666666666667,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/20/22",
+        "total_exercise": 39,
+        "deep_sleep": 66,
+        "light_sleep": 280,
+        "rem_sleep": 94,
+        "total_sleep": 7.333333333333333,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/21/22",
+        "total_exercise": 49,
+        "deep_sleep": 52,
+        "light_sleep": 298,
+        "rem_sleep": 101,
+        "total_sleep": 7.516666666666667,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/22/22",
+        "total_exercise": 38,
+        "deep_sleep": 51,
+        "light_sleep": 392,
+        "rem_sleep": 108,
+        "total_sleep": 9.183333333333334,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/23/22",
+        "total_exercise": 22,
+        "deep_sleep": 84,
+        "light_sleep": 332,
+        "rem_sleep": 88,
+        "total_sleep": 8.4,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/24/22",
+        "total_exercise": 11,
+        "deep_sleep": 115,
+        "light_sleep": 403,
+        "rem_sleep": 128,
+        "total_sleep": 10.766666666666667,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/28/22",
+        "total_exercise": 30,
+        "deep_sleep": 82,
+        "light_sleep": 277,
+        "rem_sleep": 27,
+        "total_sleep": 6.433333333333334,
+        "month": "July 2022"
+    },
+    {
+        "date": "07/31/22",
+        "total_exercise": 10,
+        "deep_sleep": 54,
+        "light_sleep": 515,
+        "rem_sleep": 103,
+        "total_sleep": 11.2,
+        "month": "July 2022"
+    },
+    {
+        "date": "08/06/22",
+        "total_exercise": 33,
+        "deep_sleep": 83,
+        "light_sleep": 325,
+        "rem_sleep": 54,
+        "total_sleep": 7.7,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/18/22",
+        "total_exercise": 42,
+        "deep_sleep": 36,
+        "light_sleep": 354,
+        "rem_sleep": 35,
+        "total_sleep": 7.083333333333333,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/21/22",
+        "total_exercise": 58,
+        "deep_sleep": 49,
+        "light_sleep": 275,
+        "rem_sleep": 136,
+        "total_sleep": 7.666666666666667,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/23/22",
+        "total_exercise": 67,
+        "deep_sleep": 47,
+        "light_sleep": 502,
+        "rem_sleep": 57,
+        "total_sleep": 10.1,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/24/22",
+        "total_exercise": 70,
+        "deep_sleep": 32,
+        "light_sleep": 383,
+        "rem_sleep": 162,
+        "total_sleep": 9.616666666666667,
+        "month": "August 2022"
+    },
+    {
+        "date": "08/25/22",
+        "total_exercise": 37,
+        "deep_sleep": 81,
+        "light_sleep": 386,
+        "rem_sleep": 100,
+        "total_sleep": 9.45,
+        "month": "August 2022"
+    },
+    {
+        "date": "09/01/22",
+        "total_exercise": 23,
+        "deep_sleep": 31,
+        "light_sleep": 500,
+        "rem_sleep": 77,
+        "total_sleep": 10.133333333333333,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/03/22",
+        "total_exercise": 11,
+        "deep_sleep": 34,
+        "light_sleep": 287,
+        "rem_sleep": 61,
+        "total_sleep": 6.366666666666666,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/04/22",
+        "total_exercise": 33,
+        "deep_sleep": 0,
+        "light_sleep": 159,
+        "rem_sleep": 41,
+        "total_sleep": 3.3333333333333335,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/06/22",
+        "total_exercise": 29,
+        "deep_sleep": 82,
+        "light_sleep": 434,
+        "rem_sleep": 106,
+        "total_sleep": 10.366666666666667,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/07/22",
+        "total_exercise": 39,
+        "deep_sleep": 113,
+        "light_sleep": 389,
+        "rem_sleep": 164,
+        "total_sleep": 11.1,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/10/22",
+        "total_exercise": 38,
+        "deep_sleep": 142,
+        "light_sleep": 513,
+        "rem_sleep": 207,
+        "total_sleep": 14.366666666666667,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/12/22",
+        "total_exercise": 52,
+        "deep_sleep": 49,
+        "light_sleep": 312,
+        "rem_sleep": 103,
+        "total_sleep": 7.733333333333333,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/16/22",
+        "total_exercise": 42,
+        "deep_sleep": 90,
+        "light_sleep": 387,
+        "rem_sleep": 174,
+        "total_sleep": 10.85,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/19/22",
+        "total_exercise": 51,
+        "deep_sleep": 9,
+        "light_sleep": 157,
+        "rem_sleep": 70,
+        "total_sleep": 3.933333333333333,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/20/22",
+        "total_exercise": 50,
+        "deep_sleep": 49,
+        "light_sleep": 171,
+        "rem_sleep": 58,
+        "total_sleep": 4.633333333333334,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/21/22",
+        "total_exercise": 74,
+        "deep_sleep": 56,
+        "light_sleep": 239,
+        "rem_sleep": 129,
+        "total_sleep": 7.066666666666666,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/23/22",
+        "total_exercise": 43,
+        "deep_sleep": 54,
+        "light_sleep": 216,
+        "rem_sleep": 86,
+        "total_sleep": 5.933333333333334,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/24/22",
+        "total_exercise": 41,
+        "deep_sleep": 5,
+        "light_sleep": 190,
+        "rem_sleep": 53,
+        "total_sleep": 4.133333333333334,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/26/22",
+        "total_exercise": 82,
+        "deep_sleep": 73,
+        "light_sleep": 324,
+        "rem_sleep": 153,
+        "total_sleep": 9.166666666666666,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/27/22",
+        "total_exercise": 30,
+        "deep_sleep": 79,
+        "light_sleep": 378,
+        "rem_sleep": 122,
+        "total_sleep": 9.65,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/28/22",
+        "total_exercise": 39,
+        "deep_sleep": 114,
+        "light_sleep": 379,
+        "rem_sleep": 94,
+        "total_sleep": 9.783333333333333,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/29/22",
+        "total_exercise": 45,
+        "deep_sleep": 45,
+        "light_sleep": 343,
+        "rem_sleep": 103,
+        "total_sleep": 8.183333333333334,
+        "month": "September 2022"
+    },
+    {
+        "date": "09/30/22",
+        "total_exercise": 121,
+        "deep_sleep": 52,
+        "light_sleep": 364,
+        "rem_sleep": 79,
+        "total_sleep": 8.25,
+        "month": "September 2022"
+    },
+    {
+        "date": "10/01/22",
+        "total_exercise": 30,
+        "deep_sleep": 68,
+        "light_sleep": 299,
+        "rem_sleep": 124,
+        "total_sleep": 8.183333333333334,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/02/22",
+        "total_exercise": 84,
+        "deep_sleep": 86,
+        "light_sleep": 306,
+        "rem_sleep": 56,
+        "total_sleep": 7.466666666666667,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/03/22",
+        "total_exercise": 98,
+        "deep_sleep": 59,
+        "light_sleep": 278,
+        "rem_sleep": 65,
+        "total_sleep": 6.7,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/04/22",
+        "total_exercise": 49,
+        "deep_sleep": 140,
+        "light_sleep": 423,
+        "rem_sleep": 137,
+        "total_sleep": 11.666666666666666,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/05/22",
+        "total_exercise": 72,
+        "deep_sleep": 61,
+        "light_sleep": 322,
+        "rem_sleep": 43,
+        "total_sleep": 7.1,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/06/22",
+        "total_exercise": 59,
+        "deep_sleep": 92,
+        "light_sleep": 205,
+        "rem_sleep": 141,
+        "total_sleep": 7.3,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/07/22",
+        "total_exercise": 96,
+        "deep_sleep": 173,
+        "light_sleep": 229,
+        "rem_sleep": 212,
+        "total_sleep": 10.233333333333333,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/08/22",
+        "total_exercise": 148,
+        "deep_sleep": 106,
+        "light_sleep": 726,
+        "rem_sleep": 204,
+        "total_sleep": 17.266666666666666,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/09/22",
+        "total_exercise": 146,
+        "deep_sleep": 97,
+        "light_sleep": 247,
+        "rem_sleep": 116,
+        "total_sleep": 7.666666666666667,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/10/22",
+        "total_exercise": 66,
+        "deep_sleep": 105,
+        "light_sleep": 571,
+        "rem_sleep": 167,
+        "total_sleep": 14.05,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/11/22",
+        "total_exercise": 29,
+        "deep_sleep": 48,
+        "light_sleep": 341,
+        "rem_sleep": 65,
+        "total_sleep": 7.566666666666666,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/12/22",
+        "total_exercise": 109,
+        "deep_sleep": 66,
+        "light_sleep": 248,
+        "rem_sleep": 102,
+        "total_sleep": 6.933333333333334,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/13/22",
+        "total_exercise": 81,
+        "deep_sleep": 101,
+        "light_sleep": 339,
+        "rem_sleep": 104,
+        "total_sleep": 9.066666666666666,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/14/22",
+        "total_exercise": 97,
+        "deep_sleep": 41,
+        "light_sleep": 105,
+        "rem_sleep": 53,
+        "total_sleep": 3.316666666666667,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/16/22",
+        "total_exercise": 10,
+        "deep_sleep": 96,
+        "light_sleep": 172,
+        "rem_sleep": 46,
+        "total_sleep": 5.233333333333333,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/17/22",
+        "total_exercise": 18,
+        "deep_sleep": 108,
+        "light_sleep": 869,
+        "rem_sleep": 172,
+        "total_sleep": 19.15,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/19/22",
+        "total_exercise": 66,
+        "deep_sleep": 97,
+        "light_sleep": 260,
+        "rem_sleep": 107,
+        "total_sleep": 7.733333333333333,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/20/22",
+        "total_exercise": 42,
+        "deep_sleep": 65,
+        "light_sleep": 428,
+        "rem_sleep": 143,
+        "total_sleep": 10.6,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/22/22",
+        "total_exercise": 50,
+        "deep_sleep": 201,
+        "light_sleep": 508,
+        "rem_sleep": 226,
+        "total_sleep": 15.583333333333334,
+        "month": "October 2022"
+    },
+    {
+        "date": "10/31/22",
+        "total_exercise": 49,
+        "deep_sleep": 99,
+        "light_sleep": 240,
+        "rem_sleep": 103,
+        "total_sleep": 7.366666666666666,
+        "month": "October 2022"
+    },
+    {
+        "date": "11/02/22",
+        "total_exercise": 43,
+        "deep_sleep": 125,
+        "light_sleep": 485,
+        "rem_sleep": 152,
+        "total_sleep": 12.7,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/05/22",
+        "total_exercise": 29,
+        "deep_sleep": 140,
+        "light_sleep": 395,
+        "rem_sleep": 163,
+        "total_sleep": 11.633333333333333,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/09/22",
+        "total_exercise": 92,
+        "deep_sleep": 72,
+        "light_sleep": 439,
+        "rem_sleep": 119,
+        "total_sleep": 10.5,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/11/22",
+        "total_exercise": 90,
+        "deep_sleep": 30,
+        "light_sleep": 282,
+        "rem_sleep": 104,
+        "total_sleep": 6.933333333333334,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/14/22",
+        "total_exercise": 56,
+        "deep_sleep": 57,
+        "light_sleep": 380,
+        "rem_sleep": 82,
+        "total_sleep": 8.65,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/15/22",
+        "total_exercise": 63,
+        "deep_sleep": 40,
+        "light_sleep": 263,
+        "rem_sleep": 96,
+        "total_sleep": 6.65,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/18/22",
+        "total_exercise": 49,
+        "deep_sleep": 5,
+        "light_sleep": 200,
+        "rem_sleep": 85,
+        "total_sleep": 4.833333333333333,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/22/22",
+        "total_exercise": 23,
+        "deep_sleep": 209,
+        "light_sleep": 582,
+        "rem_sleep": 231,
+        "total_sleep": 17.033333333333335,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/25/22",
+        "total_exercise": 46,
+        "deep_sleep": 166,
+        "light_sleep": 708,
+        "rem_sleep": 209,
+        "total_sleep": 18.05,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/27/22",
+        "total_exercise": 13,
+        "deep_sleep": 190,
+        "light_sleep": 574,
+        "rem_sleep": 199,
+        "total_sleep": 16.05,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/29/22",
+        "total_exercise": 29,
+        "deep_sleep": 130,
+        "light_sleep": 550,
+        "rem_sleep": 247,
+        "total_sleep": 15.45,
+        "month": "November 2022"
+    },
+    {
+        "date": "11/30/22",
+        "total_exercise": 84,
+        "deep_sleep": 113,
+        "light_sleep": 227,
+        "rem_sleep": 138,
+        "total_sleep": 7.966666666666667,
+        "month": "November 2022"
+    },
+    {
+        "date": "12/02/22",
+        "total_exercise": 91,
+        "deep_sleep": 108,
+        "light_sleep": 171,
+        "rem_sleep": 154,
+        "total_sleep": 7.216666666666667,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/06/22",
+        "total_exercise": 24,
+        "deep_sleep": 154,
+        "light_sleep": 673,
+        "rem_sleep": 176,
+        "total_sleep": 16.716666666666665,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/07/22",
+        "total_exercise": 65,
+        "deep_sleep": 172,
+        "light_sleep": 688,
+        "rem_sleep": 218,
+        "total_sleep": 17.966666666666665,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/09/22",
+        "total_exercise": 68,
+        "deep_sleep": 107,
+        "light_sleep": 282,
+        "rem_sleep": 123,
+        "total_sleep": 8.533333333333333,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/10/22",
+        "total_exercise": 57,
+        "deep_sleep": 101,
+        "light_sleep": 288,
+        "rem_sleep": 90,
+        "total_sleep": 7.983333333333333,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/13/22",
+        "total_exercise": 57,
+        "deep_sleep": 133,
+        "light_sleep": 516,
+        "rem_sleep": 218,
+        "total_sleep": 14.45,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/14/22",
+        "total_exercise": 69,
+        "deep_sleep": 71,
+        "light_sleep": 285,
+        "rem_sleep": 80,
+        "total_sleep": 7.266666666666667,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/17/22",
+        "total_exercise": 34,
+        "deep_sleep": 104,
+        "light_sleep": 239,
+        "rem_sleep": 108,
+        "total_sleep": 7.516666666666667,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/19/22",
+        "total_exercise": 29,
+        "deep_sleep": 81,
+        "light_sleep": 319,
+        "rem_sleep": 45,
+        "total_sleep": 7.416666666666667,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/20/22",
+        "total_exercise": 39,
+        "deep_sleep": 18,
+        "light_sleep": 345,
+        "rem_sleep": 112,
+        "total_sleep": 7.916666666666667,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/21/22",
+        "total_exercise": 23,
+        "deep_sleep": 130,
+        "light_sleep": 260,
+        "rem_sleep": 146,
+        "total_sleep": 8.933333333333334,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/25/22",
+        "total_exercise": 13,
+        "deep_sleep": 79,
+        "light_sleep": 356,
+        "rem_sleep": 101,
+        "total_sleep": 8.933333333333334,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/26/22",
+        "total_exercise": 34,
+        "deep_sleep": 101,
+        "light_sleep": 313,
+        "rem_sleep": 99,
+        "total_sleep": 8.55,
+        "month": "December 2022"
+    },
+    {
+        "date": "12/27/22",
+        "total_exercise": 29,
+        "deep_sleep": 83,
+        "light_sleep": 221,
+        "rem_sleep": 175,
+        "total_sleep": 7.983333333333333,
+        "month": "December 2022"
+    },
+    {
+        "date": "01/02/23",
+        "total_exercise": 22,
+        "deep_sleep": 178,
+        "light_sleep": 474,
+        "rem_sleep": 223,
+        "total_sleep": 14.583333333333334,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/04/23",
+        "total_exercise": 31,
+        "deep_sleep": 168,
+        "light_sleep": 476,
+        "rem_sleep": 190,
+        "total_sleep": 13.9,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/05/23",
+        "total_exercise": 49,
+        "deep_sleep": 6,
+        "light_sleep": 146,
+        "rem_sleep": 57,
+        "total_sleep": 3.4833333333333334,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/06/23",
+        "total_exercise": 12,
+        "deep_sleep": 106,
+        "light_sleep": 392,
+        "rem_sleep": 63,
+        "total_sleep": 9.35,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/07/23",
+        "total_exercise": 41,
+        "deep_sleep": 156,
+        "light_sleep": 893,
+        "rem_sleep": 171,
+        "total_sleep": 20.333333333333332,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/09/23",
+        "total_exercise": 11,
+        "deep_sleep": 149,
+        "light_sleep": 614,
+        "rem_sleep": 266,
+        "total_sleep": 17.15,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/10/23",
+        "total_exercise": 40,
+        "deep_sleep": 110,
+        "light_sleep": 274,
+        "rem_sleep": 128,
+        "total_sleep": 8.533333333333333,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/12/23",
+        "total_exercise": 54,
+        "deep_sleep": 233,
+        "light_sleep": 725,
+        "rem_sleep": 167,
+        "total_sleep": 18.75,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/16/23",
+        "total_exercise": 38,
+        "deep_sleep": 53,
+        "light_sleep": 380,
+        "rem_sleep": 29,
+        "total_sleep": 7.7,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/17/23",
+        "total_exercise": 69,
+        "deep_sleep": 49,
+        "light_sleep": 249,
+        "rem_sleep": 105,
+        "total_sleep": 6.716666666666667,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/18/23",
+        "total_exercise": 45,
+        "deep_sleep": 76,
+        "light_sleep": 350,
+        "rem_sleep": 147,
+        "total_sleep": 9.55,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/19/23",
+        "total_exercise": 49,
+        "deep_sleep": 94,
+        "light_sleep": 296,
+        "rem_sleep": 94,
+        "total_sleep": 8.066666666666666,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/22/23",
+        "total_exercise": 11,
+        "deep_sleep": 64,
+        "light_sleep": 372,
+        "rem_sleep": 83,
+        "total_sleep": 8.65,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/24/23",
+        "total_exercise": 42,
+        "deep_sleep": 150,
+        "light_sleep": 603,
+        "rem_sleep": 182,
+        "total_sleep": 15.583333333333334,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/26/23",
+        "total_exercise": 37,
+        "deep_sleep": 157,
+        "light_sleep": 575,
+        "rem_sleep": 195,
+        "total_sleep": 15.45,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/28/23",
+        "total_exercise": 25,
+        "deep_sleep": 146,
+        "light_sleep": 676,
+        "rem_sleep": 295,
+        "total_sleep": 18.616666666666667,
+        "month": "January 2023"
+    },
+    {
+        "date": "01/31/23",
+        "total_exercise": 37,
+        "deep_sleep": 78,
+        "light_sleep": 288,
+        "rem_sleep": 146,
+        "total_sleep": 8.533333333333333,
+        "month": "January 2023"
+    },
+    {
+        "date": "02/07/23",
+        "total_exercise": 76,
+        "deep_sleep": 70,
+        "light_sleep": 272,
+        "rem_sleep": 159,
+        "total_sleep": 8.35,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/14/23",
+        "total_exercise": 59,
+        "deep_sleep": 100,
+        "light_sleep": 370,
+        "rem_sleep": 60,
+        "total_sleep": 8.833333333333334,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/16/23",
+        "total_exercise": 36,
+        "deep_sleep": 123,
+        "light_sleep": 495,
+        "rem_sleep": 118,
+        "total_sleep": 12.266666666666667,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/18/23",
+        "total_exercise": 10,
+        "deep_sleep": 179,
+        "light_sleep": 726,
+        "rem_sleep": 223,
+        "total_sleep": 18.8,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/21/23",
+        "total_exercise": 83,
+        "deep_sleep": 104,
+        "light_sleep": 415,
+        "rem_sleep": 127,
+        "total_sleep": 10.766666666666667,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/22/23",
+        "total_exercise": 46,
+        "deep_sleep": 98,
+        "light_sleep": 151,
+        "rem_sleep": 121,
+        "total_sleep": 6.166666666666667,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/23/23",
+        "total_exercise": 27,
+        "deep_sleep": 107,
+        "light_sleep": 249,
+        "rem_sleep": 103,
+        "total_sleep": 7.65,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/26/23",
+        "total_exercise": 24,
+        "deep_sleep": 64,
+        "light_sleep": 316,
+        "rem_sleep": 89,
+        "total_sleep": 7.816666666666666,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/27/23",
+        "total_exercise": 26,
+        "deep_sleep": 101,
+        "light_sleep": 218,
+        "rem_sleep": 91,
+        "total_sleep": 6.833333333333333,
+        "month": "February 2023"
+    },
+    {
+        "date": "02/28/23",
+        "total_exercise": 73,
+        "deep_sleep": 88,
+        "light_sleep": 280,
+        "rem_sleep": 66,
+        "total_sleep": 7.233333333333333,
+        "month": "February 2023"
+    },
+    {
+        "date": "03/01/23",
+        "total_exercise": 61,
+        "deep_sleep": 49,
+        "light_sleep": 256,
+        "rem_sleep": 83,
+        "total_sleep": 6.466666666666667,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/02/23",
+        "total_exercise": 35,
+        "deep_sleep": 107,
+        "light_sleep": 278,
+        "rem_sleep": 98,
+        "total_sleep": 8.05,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/03/23",
+        "total_exercise": 30,
+        "deep_sleep": 105,
+        "light_sleep": 292,
+        "rem_sleep": 164,
+        "total_sleep": 9.35,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/09/23",
+        "total_exercise": 36,
+        "deep_sleep": 176,
+        "light_sleep": 696,
+        "rem_sleep": 136,
+        "total_sleep": 16.8,
+        "month": "March 2023"
+    },
+    {
+        "date": "03/12/23",
+        "total_exercise": 31,
+        "deep_sleep": 59,
+        "light_sleep": 225,
+        "rem_sleep": 87,
+        "total_sleep": 6.183333333333334,
+        "month": "March 2023"
+    }
+]

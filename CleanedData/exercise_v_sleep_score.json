@@ -1,14 +1,5 @@
 [
     {
-        "date": "03/13/23",
-        "total_exercise": 22,
-        "sleep_score": 77.0,
-        "composition": 21.0,
-        "revitalization": 18.0,
-        "duration": 38.0,
-        "month": "March 2023"
-    },
-    {
         "date": "03/16/22",
         "total_exercise": 23,
         "sleep_score": 85.0,

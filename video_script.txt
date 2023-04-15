@@ -11,11 +11,3 @@ The second section is my daily resting heartrate.  When you click on a specific 
 The third section is my daily sleep score.  Each night Fitbit computes a sleep score out of 100.  Again, the monthly plots show my sleep score against my exercise.  And again, I have a scatterplot, showing exercise vs. sleep score.
 
 At the end of the dashboard I have some conclusions about the data I've presented, as well as some ways I can add to the project at a future date.  The Fitbit data set is rich, so there are many possibilities for what I could explore further.  So check out what I have now, and stay tuned for updates!
-
-----------
-
-Fitbit exports a huge zipped folder when you request lifetime data.  I requested it exactly one year after the first day I used the Fitbit, which was perfect.  Even though Fitbit provides a LOT of data, I decided to stick to just a few key items.
-
-The tick marks are for the days of the week.  I was curious whether or not my exercise tends to be on certain days of the week, but I would have to add more to this project to investigate it further.
-
-using three components: time asleep, time in deep and REM sleep, and restoration (based on time below resting heartrate and percent restlessness). 

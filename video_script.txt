@@ -1,6 +1,6 @@
 Hi, my name is Ashley K. Wheeler, and this is my project for Erdös Institute's spring 2023 data visualization minicourse.
 
-For this project I decided to use my Fitbit data for the first year I had the Fitbit.  In this project I explore my exercise, resting heartrate, and sleep quality.
+For this project I decided to use my Fitbit data for the first year I had the Fitbit.  I explore my exercise, resting heartrate, and sleep quality.
 
 To present the data I decided to make a dashboard using d3.js, because of the control it gives me over the presentation, and, honestly, so I could learn some Javascript.
 

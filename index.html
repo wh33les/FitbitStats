@@ -757,7 +757,7 @@
 				.range([height-padding, padding]);
 			
 			yAxisSleepScore = d3.axisLeft(yScaleSleepScore)
-                .ticks(6)  
+                .ticks(10)  
 				
 			d3.select("#sleep-score")
                 .append("g")
@@ -942,7 +942,32 @@
 						.attr("width", 20)
 						.attr("height", function (d) { return height - padding - yScaleSleepScore(d.sleep_score); })
 						.attr("fill", barBlues[0])
-						.attr("stroke", barBlues[0])
+						.attr("stroke", barBlues[0]) 
+						
+					/* Attempt to subset the data
+					d3.select("#sleep-score")
+						.selectAll("rect")
+						.data(month_data)
+						.enter()
+						.append("rect")
+						.attr("x", function(d) {return xScaleMonth(parseTime(d.date))-10; })
+						.attr("y", function(d) {return yScaleSleepScore(d.duration); })
+						.attr("width", 20)
+						.attr("height", function (d) { return height - padding - yScaleSleepScore(d.duration); })
+						.attr("fill", barBlues[0])
+						.attr("stroke", barBlues[0])	
+					d3.select("#sleep-score")
+						.selectAll("rect")
+						.data(month_data)
+						.enter()
+						.append("rect")
+						.attr("x", function(d) {return xScaleMonth(parseTime(d.date))-10; })
+						.attr("y", function(d) {return yScaleSleepScore(d.composition); })
+						.attr("width", 20)
+						.attr("height", function (d) { return height - padding - yScaleSleepScore(d.duration) - yScaleSleepScore(d.composition); })
+						.attr("fill", barBlues[1])
+						.attr("stroke", barBlues[0]) */
+						
 					d3.select("#sleep-score")
 						.selectAll("circle")
 						.data(month_data)
